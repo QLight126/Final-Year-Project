@@ -42,15 +42,15 @@ public class Execute : MonoBehaviour
                     {
                         if (initial.variables[j].variableName == currentBlock.GetComponent<Plus>().newValue)
                         {
-                            int firstValue;
-                            int secondValue;
+                            float firstValue;
+                            float secondValue;
                             int symbol = currentBlock.transform.GetChild(3).GetComponent<Dropdown>().value; // Get the option from dropbox
 
                             // Decide if the input are integers or variables
-                            switch (int.TryParse(currentBlock.GetComponent<Plus>().firstValue, out firstValue))
+                            switch (float.TryParse(currentBlock.GetComponent<Plus>().firstValue, out firstValue))
                             {
                                 case true:
-                                    switch (int.TryParse(currentBlock.GetComponent<Plus>().secondValue, out secondValue))
+                                    switch (float.TryParse(currentBlock.GetComponent<Plus>().secondValue, out secondValue))
                                     {
                                         case true:
                                             switch (symbol)
@@ -91,7 +91,7 @@ public class Execute : MonoBehaviour
                                     break;
                                 case false:
                                 {
-                                    switch(int.TryParse(currentBlock.GetComponent<Plus>().secondValue, out secondValue))
+                                    switch(float.TryParse(currentBlock.GetComponent<Plus>().secondValue, out secondValue))
                                     {
                                         case true:
                                             firstValue = initial.variables.Find(x => x.variableName == currentBlock.GetComponent<Plus>().firstValue).variableValue;
@@ -144,7 +144,6 @@ public class Execute : MonoBehaviour
             UnityEngine.Debug.Log(initial.variables[i].variableName + " = " + initial.variables[i].variableValue);
             finalCode += "std::cout<<"+initial.variables[i].variableName+"<<std::endl;";
         }
-
         File.WriteAllText(path, finalCode+"}");
 
         // StartCoroutine(PostRequest("https://api.jdoodle.com/v1/execute",finalCode));

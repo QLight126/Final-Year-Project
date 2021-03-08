@@ -17,7 +17,6 @@ public class SetVariable : MonoBehaviour
         initial = GameObject.FindObjectOfType<InitialValue>();
 
         if (variableNameField.GetComponent<Text>().text != "") variableName = variableNameField.GetComponent<Text>().text;
-        //if (valueField.GetComponent<Text>().text != "")value = int.Parse(valueField.GetComponent<Text>().text);
         if (valueField.GetComponent<Text>().text != "") value = valueField.GetComponent<Text>().text;
     }
 }

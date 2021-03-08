@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -10,12 +11,6 @@ public class ReadCode : MonoBehaviour
     List<bool> isFieldUsed = new List<bool>();
 
     public static string path = "CodeBeingExecuted.cs";
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
@@ -38,14 +33,23 @@ public class ReadCode : MonoBehaviour
                 {
                     case "setVariable":
                         initial.code += "int " + currentBlock.GetComponent<SetVariable>().variableName + " = " + currentBlock.GetComponent<SetVariable>().value + ";";
-
-                        // Check if the variable is used
-                        if (!(initial.variables.Exists(x => x.variableName == currentBlock.GetComponent<SetVariable>().variableName)) && (currentBlock.GetComponent<SetVariable>().variableName != "") && (currentBlock.GetComponent<SetVariable>().value != ""))
+                        // Check if the input is numeral
+                        if (!(CheckIfNumeral(currentBlock.GetComponent<SetVariable>().value)))
                         {
-                            initial.variables.Add(new variableUsed(currentBlock.GetComponent<SetVariable>().variableName,int.Parse(currentBlock.GetComponent<SetVariable>().value)));
+                            // If not numeral, reset the value field
+                            currentBlock.transform.Find("Value").GetComponent<InputField>().Select();
+                            currentBlock.transform.Find("Value").GetComponent<InputField>().text = "";
+                            currentBlock.GetComponent<SetVariable>().value = "";
+                            initial.numeralWarning.SetActive(true); // Pop up a window warning the user to enter number
+                        }
+                        // Add the variable to the list
+                        if (!(initial.variables.Exists(x => x.variableName == currentBlock.GetComponent<SetVariable>().variableName)) && (currentBlock.GetComponent<SetVariable>().variableName != "") && (currentBlock.GetComponent<SetVariable>().value != "") && (currentBlock.GetComponent<SetVariable>().value.Substring(currentBlock.GetComponent<SetVariable>().value.Length-1) != "."))
+                        {
+                            initial.variables.Add(new variableUsed(currentBlock.GetComponent<SetVariable>().variableName,float.Parse(currentBlock.GetComponent<SetVariable>().value)));
                         } 
                         break;
                     case "plus":
+                        // Determine which operation is chosen
                         switch (currentBlock.transform.GetChild(3).GetComponent<Dropdown>().value)
                         {
                             case 0:
@@ -68,6 +72,19 @@ public class ReadCode : MonoBehaviour
                 }
             }
             
+        }
+    }
+
+    public bool CheckIfNumeral(string value)
+    {
+        float number;
+        if (!(Single.TryParse(value, out number)) && (value != "") && !(value.Substring(value.Length-1) == "."))
+        {
+            return false;
+        }
+        else
+        {
+            return true;
         }
     }
 }
