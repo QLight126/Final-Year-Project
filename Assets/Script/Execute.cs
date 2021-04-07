@@ -10,169 +10,141 @@ using UnityEngine.SceneManagement;
 public class Execute : MonoBehaviour
 {
     public InitialValue initial;
-    public Camera ProgramCamera;
-    public Camera OutputCamera;
-    public static string path = "Assets/Script/CodeBeingExecuted.cpp";
-    public static string Exepath = "Assets/Script/test";
+    public bool isCompiled = false;
+    public string path = "/Script/run.bat";
+    public string codePath = "/Script/CodeBeingExecuted.cpp";
+    public string Exepath = "";
 
 
-    public void Scene1()
+    void Start()
     {
-        //SceneManager.LoadScene("output");
-        ProgramCamera.enabled = false;
-        OutputCamera.enabled = true;
+        path = Application.dataPath + path;
+        codePath = Application.dataPath + codePath;
+        File.WriteAllText(path, "g++ " + codePath + " -o test");
+        Exepath = Application.dataPath.Replace("/Assets", "");
     }
-
-    public void writeCode()
+    public void compile()
     {
+        UnityEngine.Debug.Log(path);
         initial = GameObject.FindObjectOfType<InitialValue>();
         string finalCode = "#include<iostream> \n int main(){ " + initial.code;
         
-
-        for (var i = 0; i < initial.field.Count; i++)
+        // Detect whether all text boxs are filled in or not. If not, pop out warning
+        bool isFilledAll = true;
+        foreach (GameObject textBox in GameObject.FindGameObjectsWithTag("TextBox"))
         {
-            if (initial.isFieldUsed[i] == true)
+            if (initial.field.Contains(textBox.transform.parent.parent.gameObject))
+            {
+                if (textBox.GetComponent<InputField>().text == "")
+                {
+                    isFilledAll = false;
+                }
+            }
+        }
+        if (isFilledAll == false)
+        {
+            initial.blankWarning.SetActive(true);
+            return;
+        }
+        
+        // Check if called variables are set
+        bool isVariableSet = true;
+        for (var i = 0; i < initial.field.Count;i++)
+        {
+            if (initial.field[i].transform.childCount > 0)
             {
                 GameObject currentBlock = initial.field[i].transform.GetChild(0).gameObject;
-
-                // Check which command the block represents
-                if (currentBlock.GetComponent<SortOrder>().blockType == "plus") 
+                switch (currentBlock.GetComponent<SortOrder>().blockType)
                 {
-                    for (var j = 0; j < initial.variables.Count; j++)
-                    {
-                        if (initial.variables[j].variableName == currentBlock.GetComponent<Plus>().newValue)
+                    case "setVariable":
+                        setVariable(currentBlock);
+                        break;
+                    default:
+                        foreach (GameObject textBox in GameObject.FindGameObjectsWithTag("TextBox"))
                         {
-                            float firstValue;
-                            float secondValue;
-                            int symbol = currentBlock.transform.GetChild(3).GetComponent<Dropdown>().value; // Get the option from dropbox
-
-                            // Decide if the input are integers or variables
-                            switch (float.TryParse(currentBlock.GetComponent<Plus>().firstValue, out firstValue))
+                            if (initial.field.Contains(textBox.transform.parent.parent.gameObject))
                             {
-                                case true:
-                                    switch (float.TryParse(currentBlock.GetComponent<Plus>().secondValue, out secondValue))
-                                    {
-                                        case true:
-                                            switch (symbol)
-                                            {
-                                                case 0:
-                                                    initial.variables[j].variableValue = firstValue + secondValue;
-                                                    break;
-                                                case 1:
-                                                    initial.variables[j].variableValue = firstValue - secondValue;
-                                                    break;
-                                                case 2:
-                                                    initial.variables[j].variableValue = firstValue * secondValue;
-                                                    break;
-                                                case 3:
-                                                    initial.variables[j].variableValue = firstValue / secondValue;
-                                                    break;
-                                            }
-                                            break;
-                                        case false:
-                                            secondValue = initial.variables.Find(x => x.variableName == currentBlock.GetComponent<Plus>().secondValue).variableValue;
-                                            switch (symbol)
-                                            {
-                                                case 0:
-                                                    initial.variables[j].variableValue = firstValue + secondValue;
-                                                    break;
-                                                case 1:
-                                                    initial.variables[j].variableValue = firstValue - secondValue;
-                                                    break;
-                                                case 2:
-                                                    initial.variables[j].variableValue = firstValue * secondValue;
-                                                    break;
-                                                case 3:
-                                                    initial.variables[j].variableValue = firstValue / secondValue;
-                                                    break;
-                                            }
-                                            break;
-                                    }
-                                    break;
-                                case false:
+                                if (float.TryParse(textBox.GetComponent<InputField>().text, out float number) == false)
                                 {
-                                    switch(float.TryParse(currentBlock.GetComponent<Plus>().secondValue, out secondValue))
+                                    if (!initial.variables.Exists(x => x.variableName == textBox.GetComponent<InputField>().text))
                                     {
-                                        case true:
-                                            firstValue = initial.variables.Find(x => x.variableName == currentBlock.GetComponent<Plus>().firstValue).variableValue;
-                                            switch (symbol)
-                                            {
-                                                case 0:
-                                                    initial.variables[j].variableValue = firstValue + secondValue;
-                                                    break;
-                                                case 1:
-                                                    initial.variables[j].variableValue = firstValue - secondValue;
-                                                    break;
-                                                case 2:
-                                                    initial.variables[j].variableValue = firstValue * secondValue;
-                                                    break;
-                                                case 3:
-                                                    initial.variables[j].variableValue = firstValue / secondValue;
-                                                    break;
-                                            }
-                                            break;
-                                        case false:
-                                            firstValue = initial.variables.Find(x => x.variableName == currentBlock.GetComponent<Plus>().firstValue).variableValue;
-                                            secondValue = initial.variables.Find(x => x.variableName == currentBlock.GetComponent<Plus>().secondValue).variableValue;
-                                            switch (symbol)
-                                            {
-                                                case 0:
-                                                    initial.variables[j].variableValue = firstValue + secondValue;
-                                                    break;
-                                                case 1:
-                                                    initial.variables[j].variableValue = firstValue - secondValue;
-                                                    break;
-                                                case 2:
-                                                    initial.variables[j].variableValue = firstValue * secondValue;
-                                                    break;
-                                                case 3:
-                                                    initial.variables[j].variableValue = firstValue / secondValue;
-                                                    break;
-                                            }
-                                            break;
+                                        isVariableSet = false;
                                     }
-                                    break;
-                                }                                    
+                                }
                             }
                         }
-                    }
+                        break;
                 }
-            } 
+            }
         }
+        if (isVariableSet == false)
+        {
+            initial.setVariableWarning.SetActive(true);
+            return;
+        }
+
+        // Check if all if blocks are assigned with an end if block
+        int ifCount = 0;
+        for (var i = 0; i < initial.field.Count;i++)
+        {
+            if (initial.field[i].transform.childCount > 0)
+            {
+                GameObject currentBlock = initial.field[i].transform.GetChild(0).gameObject;
+                switch (currentBlock.GetComponent<SortOrder>().blockType)
+                {
+                    case "if":
+                        ifCount++;
+                        break;
+                    case "endIf":
+                        ifCount--;
+                        break;
+                }
+            }
+        }
+        if (ifCount != 0)
+        {
+            initial.endIfWarning.SetActive(true);
+            return;
+        }
+        
+        
         for (var i = 0; i < initial.variables.Count; i++)
         {
             UnityEngine.Debug.Log(initial.variables[i].variableName + " = " + initial.variables[i].variableValue);
-            finalCode += "std::cout<<"+initial.variables[i].variableName+"<<std::endl;";
+            finalCode += "std::cout<< \"" + initial.variables[i].variableName + " = \" <<" + initial.variables[i].variableName + "<<std::endl;";
         }
-        File.WriteAllText(path, finalCode+"}");
+        File.WriteAllText(codePath, finalCode+"}");
 
-        // StartCoroutine(PostRequest("https://api.jdoodle.com/v1/execute",finalCode));
+        Process.Start("powershell.exe", path);
+        isCompiled = true;
     }
+
 
     void Update()
     {   
         initial = GameObject.FindObjectOfType<InitialValue>();
     }
 
-    // IEnumerator PostRequest(string url, string script)
-    // {
-    //     WWWForm form = new WWWForm();
-        
-    
+    public void runCode()
+    {
+        if (isCompiled == true)
+        {
+            Process.Start("powershell.exe", "-NoExit -Command " + Exepath + "/test.exe");
+            isCompiled = false;
+        }
+        else
+        {
+            initial.compileWarning.SetActive(true);
+            return;
+        }
+    }
 
-    //     UnityWebRequest uwr = UnityWebRequest.Post(url, form);
-    //     yield return uwr.SendWebRequest();
-
-    //     if (uwr.isNetworkError)
-    //     {
-    //         UnityEngine.Debug.Log("Error While Sending: " + uwr.error);
-    //     }
-    //     else
-    //     {
-    //         UnityEngine.Debug.Log("Received: " + uwr.downloadHandler.text);
-    //     }
-    // }
-     
-
-
+    public void setVariable(GameObject currentBlock)
+    {
+        // Add the variable to the list
+        if (!(initial.variables.Exists(x => x.variableName == currentBlock.GetComponent<SetVariable>().variableName)) && (currentBlock.GetComponent<SetVariable>().variableName != "") && (currentBlock.GetComponent<SetVariable>().value != "") && (currentBlock.GetComponent<SetVariable>().value.Substring(currentBlock.GetComponent<SetVariable>().value.Length-1) != "."))
+        {
+            initial.variables.Add(new variableUsed(currentBlock.GetComponent<SetVariable>().variableName,float.Parse(currentBlock.GetComponent<SetVariable>().value)));
+        } 
+    }
 }

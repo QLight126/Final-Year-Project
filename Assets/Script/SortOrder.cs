@@ -11,7 +11,7 @@ public class SortOrder : MonoBehaviour
     public string blockType;
 
     private bool isDragging = false;
-    private bool isOverContainer = false;
+    public bool isOverContainer = false;
 
     public GameObject container;
     public GameObject originalContainer;
@@ -34,6 +34,7 @@ public class SortOrder : MonoBehaviour
         {
             container = transform.parent.gameObject;
         }
+        Physics2D.IgnoreLayerCollision(8,8);
     }
 
     
@@ -50,44 +51,64 @@ public class SortOrder : MonoBehaviour
         initial.code = "";
         initial.variables.Clear();
 
-        if (isOverContainer && container != originalContainer) // The block is moved to a new container
+        if (container != initial.deleteBlock)
         {
-            if (isFieldUsed[int.Parse(container.name)-1] == true) // There is a block already placed in the container
+            if (isOverContainer && container != originalContainer) // The block is moved to a new container
             {
-                Transform replacedBlock = container.transform.GetChild(0);
-                replacedBlock.SetParent(originalContainer.transform,true);
-                replacedBlock.localPosition = new Vector3(90,20,0);
-                transform.SetParent(container.transform, true);// Move the block to new container
-                transform.localPosition = new Vector3(90,20,0);// Set the relative position to center of the new container
-                container.GetComponent<CanvasGroup>().alpha = 1f;
-                container.GetComponent<Image>().color  = Color.white;
+                if (isFieldUsed[int.Parse(container.name)-1] == true) // There is a block already placed in the container
+                {
+                    Transform replacedBlock = container.transform.GetChild(0);
+                    replacedBlock.SetParent(originalContainer.transform,true);
+                    replacedBlock.localPosition = new Vector3(90,20,0);
+                    transform.SetParent(container.transform, true);// Move the block to new container
+                    transform.localPosition = new Vector3(90,20,0);// Set the relative position to center of the new container
+                    originalContainer.GetComponent<CanvasGroup>().alpha = 1f;
+                    originalContainer.GetComponent<Image>().color  = Color.white;
+                    container.GetComponent<CanvasGroup>().alpha = 1f;
+                    container.GetComponent<Image>().color  = Color.white;
+                }
+                else // There is no block placed in the new container
+                {
+                    transform.SetParent(container.transform, true);// Move the block to new container
+                    transform.localPosition = new Vector3(90,20,0);// Set the relative position to center of the new container
+                    container.GetComponent<CanvasGroup>().alpha = 1f;
+                    container.GetComponent<Image>().color  = Color.white;
+                    isFieldUsed[int.Parse(originalContainer.name)-1] = false;
+                    isFieldUsed[int.Parse(container.name)-1] = true;
+                }
             }
-            else // There is no block placed in the new container
+            else
             {
-                transform.SetParent(container.transform, true);// Move the block to new container
-                transform.localPosition = new Vector3(90,20,0);// Set the relative position to center of the new container
-                container.GetComponent<CanvasGroup>().alpha = 1f;
-                container.GetComponent<Image>().color  = Color.white;
-                isFieldUsed[int.Parse(originalContainer.name)-1] = false;
-                isFieldUsed[int.Parse(container.name)-1] = true;
+                transform.position = startPosition;// Send the block back to the original position
             }
         }
         else
         {
-            transform.position = startPosition;// Send the block back to the original position
+            isFieldUsed[int.Parse(originalContainer.name)-1] = false;
+            Destroy(transform.gameObject);
         }
 
-        for (var i = 0; i < field.Count; i++)
+        // Get rid of the empty containers between blocks
+        bool sorted = true;
+        for (var i = 1; i < field.Count; i++)
         {
-            field[i].GetComponent<CanvasGroup>().alpha = 1f;
-            field[i].GetComponent<Image>().color  = Color.white;
+            if ((isFieldUsed[i] == true) && (isFieldUsed[i-1] == false)) sorted = false;
         }
+        while (sorted == false)
+        {
+            initial.AutoSort();
+            sorted = true;
+            for (var i = 1; i < field.Count; i++)
+            {
+                if ((isFieldUsed[i] == true) && (isFieldUsed[i-1] == false)) sorted = false;
+            }
+        } 
     }
     
     private void OnCollisionEnter2D(Collision2D collision)
     {
         container = collision.gameObject;
-        if (container != originalContainer)
+        if ((container != originalContainer) && (isDragging))
         {
             isOverContainer = true;
             container.GetComponent<CanvasGroup>().alpha = 0.8f;

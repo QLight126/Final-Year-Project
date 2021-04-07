@@ -31,8 +31,60 @@ public class ReadCode : MonoBehaviour
                 // Check which command the block represents
                 switch (currentBlock.GetComponent<SortOrder>().blockType) 
                 {
+                    case "if":
+                        switch (currentBlock.transform.GetChild(2).GetComponent<Dropdown>().value)
+                        {
+                            case 0:
+                                initial.code += "if (" + currentBlock.GetComponent<IfBlock>().comparedValue + " = " + currentBlock.GetComponent<IfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 1:
+                                initial.code += "if (" + currentBlock.GetComponent<IfBlock>().comparedValue + " != " + currentBlock.GetComponent<IfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 2:
+                                initial.code += "if (" + currentBlock.GetComponent<IfBlock>().comparedValue + " > " + currentBlock.GetComponent<IfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 3:
+                                initial.code += "if (" + currentBlock.GetComponent<IfBlock>().comparedValue + " < " + currentBlock.GetComponent<IfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 4:
+                                initial.code += "if (" + currentBlock.GetComponent<IfBlock>().comparedValue + " >= " + currentBlock.GetComponent<IfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 5:
+                                initial.code += "if (" + currentBlock.GetComponent<IfBlock>().comparedValue + " <= " + currentBlock.GetComponent<IfBlock>().comparingValue + " ){ ";
+                                break;
+                        }
+                        break;
+                    case "elseIf":
+                        switch (currentBlock.transform.GetChild(2).GetComponent<Dropdown>().value)
+                        {
+                            case 0:
+                                initial.code += "}else if (" + currentBlock.GetComponent<ElseIfBlock>().comparedValue + " = " + currentBlock.GetComponent<ElseIfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 1:
+                                initial.code += "}else if (" + currentBlock.GetComponent<ElseIfBlock>().comparedValue + " != " + currentBlock.GetComponent<ElseIfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 2:
+                                initial.code += "}else if (" + currentBlock.GetComponent<ElseIfBlock>().comparedValue + " > " + currentBlock.GetComponent<ElseIfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 3:
+                                initial.code += "}else if (" + currentBlock.GetComponent<ElseIfBlock>().comparedValue + " < " + currentBlock.GetComponent<ElseIfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 4:
+                                initial.code += "}else if (" + currentBlock.GetComponent<ElseIfBlock>().comparedValue + " >= " + currentBlock.GetComponent<ElseIfBlock>().comparingValue + " ){ ";
+                                break;
+                            case 5:
+                                initial.code += "}else if (" + currentBlock.GetComponent<ElseIfBlock>().comparedValue + " <= " + currentBlock.GetComponent<ElseIfBlock>().comparingValue + " ){ ";
+                                break;
+                        }
+                        break;
+                    case "else":
+                        initial.code += "}else{";
+                        break;
+                    case "endIf":
+                        initial.code += "}";
+                        break;
                     case "setVariable":
-                        initial.code += "int " + currentBlock.GetComponent<SetVariable>().variableName + " = " + currentBlock.GetComponent<SetVariable>().value + ";";
+                        initial.code += "float " + currentBlock.GetComponent<SetVariable>().variableName + " = " + currentBlock.GetComponent<SetVariable>().value + ";";
                         // Check if the input is numeral
                         if (!(CheckIfNumeral(currentBlock.GetComponent<SetVariable>().value)))
                         {
@@ -42,11 +94,6 @@ public class ReadCode : MonoBehaviour
                             currentBlock.GetComponent<SetVariable>().value = "";
                             initial.numeralWarning.SetActive(true); // Pop up a window warning the user to enter number
                         }
-                        // Add the variable to the list
-                        if (!(initial.variables.Exists(x => x.variableName == currentBlock.GetComponent<SetVariable>().variableName)) && (currentBlock.GetComponent<SetVariable>().variableName != "") && (currentBlock.GetComponent<SetVariable>().value != "") && (currentBlock.GetComponent<SetVariable>().value.Substring(currentBlock.GetComponent<SetVariable>().value.Length-1) != "."))
-                        {
-                            initial.variables.Add(new variableUsed(currentBlock.GetComponent<SetVariable>().variableName,float.Parse(currentBlock.GetComponent<SetVariable>().value)));
-                        } 
                         break;
                     case "plus":
                         // Determine which operation is chosen

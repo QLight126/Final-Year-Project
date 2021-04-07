@@ -1,2 +1,2 @@
 #include<iostream> 
- int main(){ int x = 3;x = x / 6;std::cout<<x<<std::endl;}
+ int main(){ float r = 3;std::cout<< "r = " <<r<<std::endl;}
