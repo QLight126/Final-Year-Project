@@ -13,24 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-08T14:30:32.983+08:00
-  initializedAtString: 2021-04-08T14:17:35.846+08:00
+  lastUpdatedAtString: 2021-04-08T14:51:17.406+08:00
+  initializedAtString: 2021-04-08T14:51:17.406+08:00
   entries:
-  - path: Assets\Script\CodeBeingExecuted.cpp
-    fullPath: C:\Final-Year-Project\Assets\Script\CodeBeingExecuted.cpp
-    projectPath: Assets\Script\CodeBeingExecuted.cpp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Script\Execute.cs
     fullPath: C:\Final-Year-Project\Assets\Script\Execute.cs
     projectPath: Assets\Script\Execute.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Script\run.bat
-    fullPath: C:\Final-Year-Project\Assets\Script\run.bat
-    projectPath: Assets\Script\run.bat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -44,35 +32,17 @@ MonoBehaviour:
     fullPath: C:\Final-Year-Project\Library\Artifacts\48\487efa68389837cb00725ae0704c16dc
     projectPath: Library\Artifacts\48\487efa68389837cb00725ae0704c16dc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c1\c171149350da1ce7c05ee086179f3c0f
-    fullPath: C:\Final-Year-Project\Library\Artifacts\c1\c171149350da1ce7c05ee086179f3c0f
-    projectPath: Library\Artifacts\c1\c171149350da1ce7c05ee086179f3c0f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\EditorInstance.json
     fullPath: C:\Final-Year-Project\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Final-Year-Project\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Final-Year-Project\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Final-Year-Project\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Final-Year-Project\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -99,34 +69,118 @@ MonoBehaviour:
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Temp\tempFile.res
+    fullPath: C:\Final-Year-Project\Temp\tempFile.res
+    projectPath: Temp\tempFile.res
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\tempFile.resG
+    fullPath: C:\Final-Year-Project\Temp\tempFile.resG
+    projectPath: Temp\tempFile.resG
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityLockfile
     fullPath: C:\Final-Year-Project\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Temp\UnityTempFile-18bd17ffe47b4b74ba32b3807e706ee7
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-18bd17ffe47b4b74ba32b3807e706ee7
+    projectPath: Temp\UnityTempFile-18bd17ffe47b4b74ba32b3807e706ee7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-1cd8934af97f0f143a764cdc7c8957e6
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-1cd8934af97f0f143a764cdc7c8957e6
+    projectPath: Temp\UnityTempFile-1cd8934af97f0f143a764cdc7c8957e6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-24beae58001d2e543a1d876c9cdc2e18
     fullPath: C:\Final-Year-Project\Temp\UnityTempFile-24beae58001d2e543a1d876c9cdc2e18
     projectPath: Temp\UnityTempFile-24beae58001d2e543a1d876c9cdc2e18
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-3007975f22911ca43a4134640bb7e822
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-3007975f22911ca43a4134640bb7e822
+    projectPath: Temp\UnityTempFile-3007975f22911ca43a4134640bb7e822
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-3bb8301a14476114fa2e06c48dfa2c35
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-3bb8301a14476114fa2e06c48dfa2c35
+    projectPath: Temp\UnityTempFile-3bb8301a14476114fa2e06c48dfa2c35
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-4a27d878083086744a7a75132adc5416
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4a27d878083086744a7a75132adc5416
+    projectPath: Temp\UnityTempFile-4a27d878083086744a7a75132adc5416
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-697b8df4d9f3a4843b68d99f0f54c3fc
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-697b8df4d9f3a4843b68d99f0f54c3fc
+    projectPath: Temp\UnityTempFile-697b8df4d9f3a4843b68d99f0f54c3fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-7c0daae9de6de6044baf58fdac18ef83
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-7c0daae9de6de6044baf58fdac18ef83
+    projectPath: Temp\UnityTempFile-7c0daae9de6de6044baf58fdac18ef83
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-85d3e935f03ac304c8cd672dc3964a28
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-85d3e935f03ac304c8cd672dc3964a28
+    projectPath: Temp\UnityTempFile-85d3e935f03ac304c8cd672dc3964a28
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-8feaba8c7c3577f42ab4dc2075833252
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-8feaba8c7c3577f42ab4dc2075833252
+    projectPath: Temp\UnityTempFile-8feaba8c7c3577f42ab4dc2075833252
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-9513ffaf04ac63a43a49d212abdd60e4
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-9513ffaf04ac63a43a49d212abdd60e4
+    projectPath: Temp\UnityTempFile-9513ffaf04ac63a43a49d212abdd60e4
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\UnityTempFile-ae796377fecf6b948b83f885d9303ce7
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ae796377fecf6b948b83f885d9303ce7
+    projectPath: Temp\UnityTempFile-ae796377fecf6b948b83f885d9303ce7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-c0b82764f4dc2eb49aadc0cb1cd16c20
     fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c0b82764f4dc2eb49aadc0cb1cd16c20
     projectPath: Temp\UnityTempFile-c0b82764f4dc2eb49aadc0cb1cd16c20
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-cd3381fb9d27291429db326dcc97c24f
     fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cd3381fb9d27291429db326dcc97c24f
     projectPath: Temp\UnityTempFile-cd3381fb9d27291429db326dcc97c24f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: test.exe
-    fullPath: C:\Final-Year-Project\test.exe
-    projectPath: test.exe
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ded01fe3742541d429b00ef3ecbfcd18
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ded01fe3742541d429b00ef3ecbfcd18
+    projectPath: Temp\UnityTempFile-ded01fe3742541d429b00ef3ecbfcd18
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-e8fd83fc23feab7488d1a3b806bd03f0
+    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e8fd83fc23feab7488d1a3b806bd03f0
+    projectPath: Temp\UnityTempFile-e8fd83fc23feab7488d1a3b806bd03f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
