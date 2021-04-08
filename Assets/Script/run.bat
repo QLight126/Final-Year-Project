@@ -1,1 +1,1 @@
-g++ -static-libgcc -static-libstdc++ C:/Final-Year-Project/Assets/Script/CodeBeingExecuted.cpp -o test
+g++ C:/Final-Year-Project/Assets/Script/CodeBeingExecuted.cpp -o test
