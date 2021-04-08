@@ -1,2 +1,2 @@
 #include<iostream> 
- int main(){ float x = 2;std::cout<< "x = " <<x<<std::endl;}
+ int main(){ float r = 4;std::cout<< "r = " <<r<<std::endl;}

@@ -20,7 +20,7 @@ public class Execute : MonoBehaviour
     {
         path = Application.dataPath + path;
         codePath = Application.dataPath + codePath;
-        File.WriteAllText(path, "g++ " + codePath + " -o test");
+        File.WriteAllText(path, "g++ -static-libgcc -static-libstdc++ " + codePath + " -o test");
         Exepath = Application.dataPath.Replace("/Assets", "");
     }
     public void compile()
