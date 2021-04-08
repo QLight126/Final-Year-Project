@@ -15,13 +15,13 @@ public class Execute : MonoBehaviour
     public string codePath = "/Script/CodeBeingExecuted.cpp";
     public string Exepath = "";
 
-
     void Start()
     {
-        path = Application.dataPath + path;
-        codePath = Application.dataPath + codePath;
+        path = Application.dataPath.Replace("scratch_Data", "Assets") + "/Script/run.bat";
+        codePath = Application.dataPath.Replace("scratch_Data", "Assets") + "/Script/CodeBeingExecuted.cpp";
         File.WriteAllText(path, "g++ " + codePath + " -o test");
         Exepath = Application.dataPath.Replace("/Assets", "");
+        Exepath = Application.dataPath.Replace("/scratch_Data", "");
     }
     public void compile()
     {
