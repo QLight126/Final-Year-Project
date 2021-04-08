@@ -13,114 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-12-11T18:16:17.766+08:00
-  initializedAtString: 2020-12-11T18:13:33.650+08:00
+  lastUpdatedAtString: 2021-04-08T13:37:30.305+08:00
+  initializedAtString: 2021-04-08T13:37:30.305+08:00
   entries:
-  - path: Assets\Back.cs
-    fullPath: C:\Final-Year-Project\Assets\Back.cs
-    projectPath: Assets\Back.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Back.cs.meta
-    fullPath: C:\Final-Year-Project\Assets\Back.cs.meta
-    projectPath: Assets\Back.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\CloneItself.cs
-    fullPath: C:\Final-Year-Project\Assets\CloneItself.cs
-    projectPath: Assets\CloneItself.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\CloneItself.cs.meta
-    fullPath: C:\Final-Year-Project\Assets\CloneItself.cs.meta
-    projectPath: Assets\CloneItself.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Execute.cs
-    fullPath: C:\Final-Year-Project\Assets\Execute.cs
-    projectPath: Assets\Execute.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Samples.meta
-    fullPath: C:\Final-Year-Project\Assets\Samples.meta
-    projectPath: Assets\Samples.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\ElseBlock.prefab
-    fullPath: C:\Final-Year-Project\Assets\Samples\ElseBlock.prefab
-    projectPath: Assets\Samples\ElseBlock.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\ElseBlock.prefab.meta
-    fullPath: C:\Final-Year-Project\Assets\Samples\ElseBlock.prefab.meta
-    projectPath: Assets\Samples\ElseBlock.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\ElseIfBlock.prefab
-    fullPath: C:\Final-Year-Project\Assets\Samples\ElseIfBlock.prefab
-    projectPath: Assets\Samples\ElseIfBlock.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\ElseIfBlock.prefab.meta
-    fullPath: C:\Final-Year-Project\Assets\Samples\ElseIfBlock.prefab.meta
-    projectPath: Assets\Samples\ElseIfBlock.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\EndBlock.prefab
-    fullPath: C:\Final-Year-Project\Assets\Samples\EndBlock.prefab
-    projectPath: Assets\Samples\EndBlock.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\EndBlock.prefab.meta
-    fullPath: C:\Final-Year-Project\Assets\Samples\EndBlock.prefab.meta
-    projectPath: Assets\Samples\EndBlock.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\IfBlock.prefab
-    fullPath: C:\Final-Year-Project\Assets\Samples\IfBlock.prefab
-    projectPath: Assets\Samples\IfBlock.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\IfBlock.prefab.meta
-    fullPath: C:\Final-Year-Project\Assets\Samples\IfBlock.prefab.meta
-    projectPath: Assets\Samples\IfBlock.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\SetVariableBlock.prefab
-    fullPath: C:\Final-Year-Project\Assets\Samples\SetVariableBlock.prefab
-    projectPath: Assets\Samples\SetVariableBlock.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\SetVariableBlock.prefab.meta
-    fullPath: C:\Final-Year-Project\Assets\Samples\SetVariableBlock.prefab.meta
-    projectPath: Assets\Samples\SetVariableBlock.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scenes\main.unity
     fullPath: C:\Final-Year-Project\Assets\Scenes\main.unity
     projectPath: Assets\Scenes\main.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\output.unity
-    fullPath: C:\Final-Year-Project\Assets\Scenes\output.unity
-    projectPath: Assets\Scenes\output.unity
+  - path: Assets\Script\CodeBeingExecuted.cpp
+    fullPath: C:\Final-Year-Project\Assets\Script\CodeBeingExecuted.cpp
+    projectPath: Assets\Script\CodeBeingExecuted.cpp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Script\run.bat
+    fullPath: C:\Final-Year-Project\Assets\Script\run.bat
+    projectPath: Assets\Script\run.bat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -130,84 +40,180 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\3b\3bb572f6bb9715667ddd9ff34d957e16
-    fullPath: C:\Final-Year-Project\Library\Artifacts\3b\3bb572f6bb9715667ddd9ff34d957e16
-    projectPath: Library\Artifacts\3b\3bb572f6bb9715667ddd9ff34d957e16
+  - path: Library\Artifacts\1e\1eaa3bd9928de665a09a619bfa250b8c
+    fullPath: C:\Final-Year-Project\Library\Artifacts\1e\1eaa3bd9928de665a09a619bfa250b8c
+    projectPath: Library\Artifacts\1e\1eaa3bd9928de665a09a619bfa250b8c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\47\476774ba57f916d3144761546ba33e5b
-    fullPath: C:\Final-Year-Project\Library\Artifacts\47\476774ba57f916d3144761546ba33e5b
-    projectPath: Library\Artifacts\47\476774ba57f916d3144761546ba33e5b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\52\52b1bde6a6f9ec2e891e1fe09879d1f9
-    fullPath: C:\Final-Year-Project\Library\Artifacts\52\52b1bde6a6f9ec2e891e1fe09879d1f9
-    projectPath: Library\Artifacts\52\52b1bde6a6f9ec2e891e1fe09879d1f9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6f\6fe265bc65ed9e78011c9f8568a3549d
-    fullPath: C:\Final-Year-Project\Library\Artifacts\6f\6fe265bc65ed9e78011c9f8568a3549d
-    projectPath: Library\Artifacts\6f\6fe265bc65ed9e78011c9f8568a3549d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9c\9c2d29550c66c781bf761c1917d54b20
-    fullPath: C:\Final-Year-Project\Library\Artifacts\9c\9c2d29550c66c781bf761c1917d54b20
-    projectPath: Library\Artifacts\9c\9c2d29550c66c781bf761c1917d54b20
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ac\ac3b7d54300801edf3b24d9dd00433be
-    fullPath: C:\Final-Year-Project\Library\Artifacts\ac\ac3b7d54300801edf3b24d9dd00433be
-    projectPath: Library\Artifacts\ac\ac3b7d54300801edf3b24d9dd00433be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b7\b785e1749a8f82c32cbc2f89463fa697
-    fullPath: C:\Final-Year-Project\Library\Artifacts\b7\b785e1749a8f82c32cbc2f89463fa697
-    projectPath: Library\Artifacts\b7\b785e1749a8f82c32cbc2f89463fa697
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bb\bbe0d42005d2a2be1a47bb94d1dab0b5
-    fullPath: C:\Final-Year-Project\Library\Artifacts\bb\bbe0d42005d2a2be1a47bb94d1dab0b5
-    projectPath: Library\Artifacts\bb\bbe0d42005d2a2be1a47bb94d1dab0b5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c2\c2313c2d7b19215c16ca33abde19f600
-    fullPath: C:\Final-Year-Project\Library\Artifacts\c2\c2313c2d7b19215c16ca33abde19f600
-    projectPath: Library\Artifacts\c2\c2313c2d7b19215c16ca33abde19f600
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d9\d9d31a971d181f00bde63ac7849df7b9
-    fullPath: C:\Final-Year-Project\Library\Artifacts\d9\d9d31a971d181f00bde63ac7849df7b9
-    projectPath: Library\Artifacts\d9\d9d31a971d181f00bde63ac7849df7b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e2\e21ef0fc7d57aff899aa8376e029a253
-    fullPath: C:\Final-Year-Project\Library\Artifacts\e2\e21ef0fc7d57aff899aa8376e029a253
-    projectPath: Library\Artifacts\e2\e21ef0fc7d57aff899aa8376e029a253
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Final-Year-Project\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+  - path: Library\Artifacts\23\2305b3e65a469913b690dd326f2846b3
+    fullPath: C:\Final-Year-Project\Library\Artifacts\23\2305b3e65a469913b690dd326f2846b3
+    projectPath: Library\Artifacts\23\2305b3e65a469913b690dd326f2846b3
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Library\Artifacts\25\25792a55a4c646a4f3609a5946855a06
+    fullPath: C:\Final-Year-Project\Library\Artifacts\25\25792a55a4c646a4f3609a5946855a06
+    projectPath: Library\Artifacts\25\25792a55a4c646a4f3609a5946855a06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3a\3a7be4bc3f08ac4480db0a3bd8a042af
+    fullPath: C:\Final-Year-Project\Library\Artifacts\3a\3a7be4bc3f08ac4480db0a3bd8a042af
+    projectPath: Library\Artifacts\3a\3a7be4bc3f08ac4480db0a3bd8a042af
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\40\40c0e16f7fe465eafdb5c74f03c1e1b0
+    fullPath: C:\Final-Year-Project\Library\Artifacts\40\40c0e16f7fe465eafdb5c74f03c1e1b0
+    projectPath: Library\Artifacts\40\40c0e16f7fe465eafdb5c74f03c1e1b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4a\4a368d52211a95f72ba35fc91cadca1f
+    fullPath: C:\Final-Year-Project\Library\Artifacts\4a\4a368d52211a95f72ba35fc91cadca1f
+    projectPath: Library\Artifacts\4a\4a368d52211a95f72ba35fc91cadca1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\55\550d16910124b58a02168db22515911d
+    fullPath: C:\Final-Year-Project\Library\Artifacts\55\550d16910124b58a02168db22515911d
+    projectPath: Library\Artifacts\55\550d16910124b58a02168db22515911d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\55\5534d340ed3859b3f2f63b0956045cf3
+    fullPath: C:\Final-Year-Project\Library\Artifacts\55\5534d340ed3859b3f2f63b0956045cf3
+    projectPath: Library\Artifacts\55\5534d340ed3859b3f2f63b0956045cf3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\56\56ae9b46a65fc6c9b465b696890345ad
+    fullPath: C:\Final-Year-Project\Library\Artifacts\56\56ae9b46a65fc6c9b465b696890345ad
+    projectPath: Library\Artifacts\56\56ae9b46a65fc6c9b465b696890345ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\59\59718582c5c3423dfd93bd505c2abf71
+    fullPath: C:\Final-Year-Project\Library\Artifacts\59\59718582c5c3423dfd93bd505c2abf71
+    projectPath: Library\Artifacts\59\59718582c5c3423dfd93bd505c2abf71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\64\64a6f7039b7d125b46dba5e3081d2051
+    fullPath: C:\Final-Year-Project\Library\Artifacts\64\64a6f7039b7d125b46dba5e3081d2051
+    projectPath: Library\Artifacts\64\64a6f7039b7d125b46dba5e3081d2051
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\65\65c13dbeba9657e62f9e67122a45b610
+    fullPath: C:\Final-Year-Project\Library\Artifacts\65\65c13dbeba9657e62f9e67122a45b610
+    projectPath: Library\Artifacts\65\65c13dbeba9657e62f9e67122a45b610
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\71\71055ffc240a11699699a4207e2ab40e
+    fullPath: C:\Final-Year-Project\Library\Artifacts\71\71055ffc240a11699699a4207e2ab40e
+    projectPath: Library\Artifacts\71\71055ffc240a11699699a4207e2ab40e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\71\717aa0e1adbfe36801833fb892df6622
+    fullPath: C:\Final-Year-Project\Library\Artifacts\71\717aa0e1adbfe36801833fb892df6622
+    projectPath: Library\Artifacts\71\717aa0e1adbfe36801833fb892df6622
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\77\77ec31fdb99fc74eabc19d94e82b92f6
+    fullPath: C:\Final-Year-Project\Library\Artifacts\77\77ec31fdb99fc74eabc19d94e82b92f6
+    projectPath: Library\Artifacts\77\77ec31fdb99fc74eabc19d94e82b92f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\7b\7b446cf8f9b33506c01294830af81f84
+    fullPath: C:\Final-Year-Project\Library\Artifacts\7b\7b446cf8f9b33506c01294830af81f84
+    projectPath: Library\Artifacts\7b\7b446cf8f9b33506c01294830af81f84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\89\8918796496f28228a9113db21374ba38
+    fullPath: C:\Final-Year-Project\Library\Artifacts\89\8918796496f28228a9113db21374ba38
+    projectPath: Library\Artifacts\89\8918796496f28228a9113db21374ba38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8e\8e9b28fea628d96dc93da42047294545
+    fullPath: C:\Final-Year-Project\Library\Artifacts\8e\8e9b28fea628d96dc93da42047294545
+    projectPath: Library\Artifacts\8e\8e9b28fea628d96dc93da42047294545
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\a5\a55065dfdb9ddd78e6f71ad880ba41ab
+    fullPath: C:\Final-Year-Project\Library\Artifacts\a5\a55065dfdb9ddd78e6f71ad880ba41ab
+    projectPath: Library\Artifacts\a5\a55065dfdb9ddd78e6f71ad880ba41ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ac\ac1aaed2b453d6816bdeb4a793a44666
+    fullPath: C:\Final-Year-Project\Library\Artifacts\ac\ac1aaed2b453d6816bdeb4a793a44666
+    projectPath: Library\Artifacts\ac\ac1aaed2b453d6816bdeb4a793a44666
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\b5\b52fd46af5b05742410d6bfad0851975
+    fullPath: C:\Final-Year-Project\Library\Artifacts\b5\b52fd46af5b05742410d6bfad0851975
+    projectPath: Library\Artifacts\b5\b52fd46af5b05742410d6bfad0851975
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c4\c406d0d6455b8e6f75520265c88b4971
+    fullPath: C:\Final-Year-Project\Library\Artifacts\c4\c406d0d6455b8e6f75520265c88b4971
+    projectPath: Library\Artifacts\c4\c406d0d6455b8e6f75520265c88b4971
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\cd\cdf2f16a14fa9228e4f9026746a03646
+    fullPath: C:\Final-Year-Project\Library\Artifacts\cd\cdf2f16a14fa9228e4f9026746a03646
+    projectPath: Library\Artifacts\cd\cdf2f16a14fa9228e4f9026746a03646
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\db\dbfd80826b379f12e7e5c9da084a6df4
+    fullPath: C:\Final-Year-Project\Library\Artifacts\db\dbfd80826b379f12e7e5c9da084a6df4
+    projectPath: Library\Artifacts\db\dbfd80826b379f12e7e5c9da084a6df4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f5\f512d0dd5665183e2ec2c11eebba2038
+    fullPath: C:\Final-Year-Project\Library\Artifacts\f5\f512d0dd5665183e2ec2c11eebba2038
+    projectPath: Library\Artifacts\f5\f512d0dd5665183e2ec2c11eebba2038
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\EditorInstance.json
     fullPath: C:\Final-Year-Project\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Final-Year-Project\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Final-Year-Project\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Final-Year-Project\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Final-Year-Project\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -226,210 +232,2370 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Final-Year-Project\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: Library\LastBuild.buildreport
+    fullPath: C:\Final-Year-Project\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\boot.config
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\boot.config
+    projectPath: Library\PlayerDataCache\Win\Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\level0
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\level0
+    projectPath: Library\PlayerDataCache\Win\Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubsystemsModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubsystemsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    projectPath: Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Final-Year-Project\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Library\ShaderCache\0\00b8985e871b4f31f7a54d97c27bb5c6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\00b8985e871b4f31f7a54d97c27bb5c6.bin
+    projectPath: Library\ShaderCache\0\00b8985e871b4f31f7a54d97c27bb5c6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\010d33f88e02788fa9718048fb2d8b51.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\010d33f88e02788fa9718048fb2d8b51.bin
+    projectPath: Library\ShaderCache\0\010d33f88e02788fa9718048fb2d8b51.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\014bb7f492d0a40edee4d973bf81c68c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\014bb7f492d0a40edee4d973bf81c68c.bin
+    projectPath: Library\ShaderCache\0\014bb7f492d0a40edee4d973bf81c68c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\02a77713314c0eaf97c72be3a821a61b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\02a77713314c0eaf97c72be3a821a61b.bin
+    projectPath: Library\ShaderCache\0\02a77713314c0eaf97c72be3a821a61b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\03d0644b9adf42fb60573606d11ab8e0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\03d0644b9adf42fb60573606d11ab8e0.bin
+    projectPath: Library\ShaderCache\0\03d0644b9adf42fb60573606d11ab8e0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\03f9ca02f6016342ad1e42d060cddbb2.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\03f9ca02f6016342ad1e42d060cddbb2.bin
+    projectPath: Library\ShaderCache\0\03f9ca02f6016342ad1e42d060cddbb2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\04c41f1c34918112b68adfb0469dea85.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\04c41f1c34918112b68adfb0469dea85.bin
+    projectPath: Library\ShaderCache\0\04c41f1c34918112b68adfb0469dea85.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\059d18ba8cc88e9be5eec968b1b19fb8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\059d18ba8cc88e9be5eec968b1b19fb8.bin
+    projectPath: Library\ShaderCache\0\059d18ba8cc88e9be5eec968b1b19fb8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\05b6c66973f7ce85c184b160c71b1714.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\05b6c66973f7ce85c184b160c71b1714.bin
+    projectPath: Library\ShaderCache\0\05b6c66973f7ce85c184b160c71b1714.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\05ba29e8a97ed4b27f33501faab20b6b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\05ba29e8a97ed4b27f33501faab20b6b.bin
+    projectPath: Library\ShaderCache\0\05ba29e8a97ed4b27f33501faab20b6b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\06243c222b4aec1679cae386a54b2557.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\06243c222b4aec1679cae386a54b2557.bin
+    projectPath: Library\ShaderCache\0\06243c222b4aec1679cae386a54b2557.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\08b9a993573c40231c6724b3e167733f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\08b9a993573c40231c6724b3e167733f.bin
+    projectPath: Library\ShaderCache\0\08b9a993573c40231c6724b3e167733f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\08ead400a196d8a31c8202d797534a49.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\08ead400a196d8a31c8202d797534a49.bin
+    projectPath: Library\ShaderCache\0\08ead400a196d8a31c8202d797534a49.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0b1156d91c01b12212430542b9f02313.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0b1156d91c01b12212430542b9f02313.bin
+    projectPath: Library\ShaderCache\0\0b1156d91c01b12212430542b9f02313.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0be177165f41ab9f23de0aa465c3e765.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0be177165f41ab9f23de0aa465c3e765.bin
+    projectPath: Library\ShaderCache\0\0be177165f41ab9f23de0aa465c3e765.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0d9e8936b1d401c9c5b36fb876d46b3b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0d9e8936b1d401c9c5b36fb876d46b3b.bin
+    projectPath: Library\ShaderCache\0\0d9e8936b1d401c9c5b36fb876d46b3b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0def2639c13097fd5f1d464372016aa3.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0def2639c13097fd5f1d464372016aa3.bin
+    projectPath: Library\ShaderCache\0\0def2639c13097fd5f1d464372016aa3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0e913a2b88738ae2e207ffa19c556887.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0e913a2b88738ae2e207ffa19c556887.bin
+    projectPath: Library\ShaderCache\0\0e913a2b88738ae2e207ffa19c556887.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0eda30665f20d3205f7b3e5d896fe7de.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0eda30665f20d3205f7b3e5d896fe7de.bin
+    projectPath: Library\ShaderCache\0\0eda30665f20d3205f7b3e5d896fe7de.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0eed1fe4ef10aaec338fb02ea62e0632.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0eed1fe4ef10aaec338fb02ea62e0632.bin
+    projectPath: Library\ShaderCache\0\0eed1fe4ef10aaec338fb02ea62e0632.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0f23a0d490fcee5f6c8fa1a34063d8bf.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0f23a0d490fcee5f6c8fa1a34063d8bf.bin
+    projectPath: Library\ShaderCache\0\0f23a0d490fcee5f6c8fa1a34063d8bf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0f68f7e4475adeb0597f147401775d08.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0f68f7e4475adeb0597f147401775d08.bin
+    projectPath: Library\ShaderCache\0\0f68f7e4475adeb0597f147401775d08.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0fd5a3608c157dd64841d74a7588cb87.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\0\0fd5a3608c157dd64841d74a7588cb87.bin
+    projectPath: Library\ShaderCache\0\0fd5a3608c157dd64841d74a7588cb87.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1067634441b24cc3fb26456a38912127.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1067634441b24cc3fb26456a38912127.bin
+    projectPath: Library\ShaderCache\1\1067634441b24cc3fb26456a38912127.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\11b16712b75454c9f23439986a664ffa.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\11b16712b75454c9f23439986a664ffa.bin
+    projectPath: Library\ShaderCache\1\11b16712b75454c9f23439986a664ffa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\126cb0d3f1cf52f3de552c23b6fedc93.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\126cb0d3f1cf52f3de552c23b6fedc93.bin
+    projectPath: Library\ShaderCache\1\126cb0d3f1cf52f3de552c23b6fedc93.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\135f0d3a2d84c5fc0cea9f705c70f25c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\135f0d3a2d84c5fc0cea9f705c70f25c.bin
+    projectPath: Library\ShaderCache\1\135f0d3a2d84c5fc0cea9f705c70f25c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\17f897d9e127b8798c5ef3d929d35b06.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\17f897d9e127b8798c5ef3d929d35b06.bin
+    projectPath: Library\ShaderCache\1\17f897d9e127b8798c5ef3d929d35b06.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\19c02eec66690dd02d4a0234e2eb7f4a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\19c02eec66690dd02d4a0234e2eb7f4a.bin
+    projectPath: Library\ShaderCache\1\19c02eec66690dd02d4a0234e2eb7f4a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1ae649b0247c62bcf61083dc8eda53dc.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1ae649b0247c62bcf61083dc8eda53dc.bin
+    projectPath: Library\ShaderCache\1\1ae649b0247c62bcf61083dc8eda53dc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1b070a954ab3122d90600f436f6118b3.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1b070a954ab3122d90600f436f6118b3.bin
+    projectPath: Library\ShaderCache\1\1b070a954ab3122d90600f436f6118b3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1bb652458bf14b0e4f167c583cb705c8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1bb652458bf14b0e4f167c583cb705c8.bin
+    projectPath: Library\ShaderCache\1\1bb652458bf14b0e4f167c583cb705c8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1c878d96a12352f97489136832a63465.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1c878d96a12352f97489136832a63465.bin
+    projectPath: Library\ShaderCache\1\1c878d96a12352f97489136832a63465.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1e79e8dd2793dc128d60b702a0bb098b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1e79e8dd2793dc128d60b702a0bb098b.bin
+    projectPath: Library\ShaderCache\1\1e79e8dd2793dc128d60b702a0bb098b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1e971900f61c3e820fb832b61517d134.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1e971900f61c3e820fb832b61517d134.bin
+    projectPath: Library\ShaderCache\1\1e971900f61c3e820fb832b61517d134.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1edbf273f649b8c15ad70b1b2c5c3eda.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1edbf273f649b8c15ad70b1b2c5c3eda.bin
+    projectPath: Library\ShaderCache\1\1edbf273f649b8c15ad70b1b2c5c3eda.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1fed697122ba4cbddbd598f4295f6cdc.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\1\1fed697122ba4cbddbd598f4295f6cdc.bin
+    projectPath: Library\ShaderCache\1\1fed697122ba4cbddbd598f4295f6cdc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\208a43ef4ed615b4f491588126522d7d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\208a43ef4ed615b4f491588126522d7d.bin
+    projectPath: Library\ShaderCache\2\208a43ef4ed615b4f491588126522d7d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2208ce7e1852d4b94fee26669112a237.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2208ce7e1852d4b94fee26669112a237.bin
+    projectPath: Library\ShaderCache\2\2208ce7e1852d4b94fee26669112a237.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\22194a2914a35c1de26359d018983617.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\22194a2914a35c1de26359d018983617.bin
+    projectPath: Library\ShaderCache\2\22194a2914a35c1de26359d018983617.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\222111c27fbec83907ec09ac295a829c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\222111c27fbec83907ec09ac295a829c.bin
+    projectPath: Library\ShaderCache\2\222111c27fbec83907ec09ac295a829c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\229b82ee5a2889f436924ee3bcc9dad9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\229b82ee5a2889f436924ee3bcc9dad9.bin
+    projectPath: Library\ShaderCache\2\229b82ee5a2889f436924ee3bcc9dad9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2402c0c2c34846f0fd88502f30f14391.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2402c0c2c34846f0fd88502f30f14391.bin
+    projectPath: Library\ShaderCache\2\2402c0c2c34846f0fd88502f30f14391.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\250c129f197b2f3eaa40ec6058bb30c0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\250c129f197b2f3eaa40ec6058bb30c0.bin
+    projectPath: Library\ShaderCache\2\250c129f197b2f3eaa40ec6058bb30c0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2517361aa533b960faabf2fe27d032d0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2517361aa533b960faabf2fe27d032d0.bin
+    projectPath: Library\ShaderCache\2\2517361aa533b960faabf2fe27d032d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\27a4103b6af9cd8d95e5b176a9a02d91.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\27a4103b6af9cd8d95e5b176a9a02d91.bin
+    projectPath: Library\ShaderCache\2\27a4103b6af9cd8d95e5b176a9a02d91.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2807bc5cc88602a71fae8ea65e992fc3.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2807bc5cc88602a71fae8ea65e992fc3.bin
+    projectPath: Library\ShaderCache\2\2807bc5cc88602a71fae8ea65e992fc3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\29051d0005c1455e74d52a731cdbf3a6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\29051d0005c1455e74d52a731cdbf3a6.bin
+    projectPath: Library\ShaderCache\2\29051d0005c1455e74d52a731cdbf3a6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2a96067b1c846d1587a6927a3f6760ba.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2a96067b1c846d1587a6927a3f6760ba.bin
+    projectPath: Library\ShaderCache\2\2a96067b1c846d1587a6927a3f6760ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2aecf3c61549497efbb23ced87d4b65c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2aecf3c61549497efbb23ced87d4b65c.bin
+    projectPath: Library\ShaderCache\2\2aecf3c61549497efbb23ced87d4b65c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2b2fd6f2d7f9e48eb7593fd33bdcfd5a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2b2fd6f2d7f9e48eb7593fd33bdcfd5a.bin
+    projectPath: Library\ShaderCache\2\2b2fd6f2d7f9e48eb7593fd33bdcfd5a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2b794eeafcd5d3f159c8aa71d7cd1826.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2b794eeafcd5d3f159c8aa71d7cd1826.bin
+    projectPath: Library\ShaderCache\2\2b794eeafcd5d3f159c8aa71d7cd1826.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2bbb4cd40a5132f914573b10903aa69f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2bbb4cd40a5132f914573b10903aa69f.bin
+    projectPath: Library\ShaderCache\2\2bbb4cd40a5132f914573b10903aa69f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2c88ecfbf18be5ef26d107f42a41e788.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2c88ecfbf18be5ef26d107f42a41e788.bin
+    projectPath: Library\ShaderCache\2\2c88ecfbf18be5ef26d107f42a41e788.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2e183125f510583a76a8ac0c87209f12.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2e183125f510583a76a8ac0c87209f12.bin
+    projectPath: Library\ShaderCache\2\2e183125f510583a76a8ac0c87209f12.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2e8efebdfaa6cefe35e19e1bec01f941.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2e8efebdfaa6cefe35e19e1bec01f941.bin
+    projectPath: Library\ShaderCache\2\2e8efebdfaa6cefe35e19e1bec01f941.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2f7899edb666df9b0a5ca99048ed6ad3.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\2\2f7899edb666df9b0a5ca99048ed6ad3.bin
+    projectPath: Library\ShaderCache\2\2f7899edb666df9b0a5ca99048ed6ad3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\31335f4201c7f2593678693b8cd7add3.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\31335f4201c7f2593678693b8cd7add3.bin
+    projectPath: Library\ShaderCache\3\31335f4201c7f2593678693b8cd7add3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\330e1ecbe37dc414aaa4581015474fb8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\330e1ecbe37dc414aaa4581015474fb8.bin
+    projectPath: Library\ShaderCache\3\330e1ecbe37dc414aaa4581015474fb8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3319befbaeac944ee87ffb5b4fca9bc0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3319befbaeac944ee87ffb5b4fca9bc0.bin
+    projectPath: Library\ShaderCache\3\3319befbaeac944ee87ffb5b4fca9bc0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3331eccc0915116d0857ffa8613c2d9e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3331eccc0915116d0857ffa8613c2d9e.bin
+    projectPath: Library\ShaderCache\3\3331eccc0915116d0857ffa8613c2d9e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\357f2a256b9aa569f2174d3989a362b9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\357f2a256b9aa569f2174d3989a362b9.bin
+    projectPath: Library\ShaderCache\3\357f2a256b9aa569f2174d3989a362b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\36b6af02649bb15148c029dee70ad7dd.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\36b6af02649bb15148c029dee70ad7dd.bin
+    projectPath: Library\ShaderCache\3\36b6af02649bb15148c029dee70ad7dd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\37d57da810bbdc87429c68bfbbf19807.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\37d57da810bbdc87429c68bfbbf19807.bin
+    projectPath: Library\ShaderCache\3\37d57da810bbdc87429c68bfbbf19807.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\37d9805b3833a0f01e0991778edf16a4.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\37d9805b3833a0f01e0991778edf16a4.bin
+    projectPath: Library\ShaderCache\3\37d9805b3833a0f01e0991778edf16a4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3945c8a3846ea21d97da93fcd46a5638.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3945c8a3846ea21d97da93fcd46a5638.bin
+    projectPath: Library\ShaderCache\3\3945c8a3846ea21d97da93fcd46a5638.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\39fba74b551196c36616dde880f45e7c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\39fba74b551196c36616dde880f45e7c.bin
+    projectPath: Library\ShaderCache\3\39fba74b551196c36616dde880f45e7c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3a4add1a244c8490c20ca91824909eba.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3a4add1a244c8490c20ca91824909eba.bin
+    projectPath: Library\ShaderCache\3\3a4add1a244c8490c20ca91824909eba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3c6b9c1ea3ecd3245f43c057aa1c384d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3c6b9c1ea3ecd3245f43c057aa1c384d.bin
+    projectPath: Library\ShaderCache\3\3c6b9c1ea3ecd3245f43c057aa1c384d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3cb335a503d78eddbb955a4f789487e8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3cb335a503d78eddbb955a4f789487e8.bin
+    projectPath: Library\ShaderCache\3\3cb335a503d78eddbb955a4f789487e8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3cd6b26da1a6a5ed76a8f8491f1be01a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3cd6b26da1a6a5ed76a8f8491f1be01a.bin
+    projectPath: Library\ShaderCache\3\3cd6b26da1a6a5ed76a8f8491f1be01a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3d04d1b2d1c1868420dc65559565d5a2.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3d04d1b2d1c1868420dc65559565d5a2.bin
+    projectPath: Library\ShaderCache\3\3d04d1b2d1c1868420dc65559565d5a2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3e45ade4686d977746778c63af5f5f0f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3e45ade4686d977746778c63af5f5f0f.bin
+    projectPath: Library\ShaderCache\3\3e45ade4686d977746778c63af5f5f0f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3e93d43cf6bf60663a36ddb348c56c1a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3e93d43cf6bf60663a36ddb348c56c1a.bin
+    projectPath: Library\ShaderCache\3\3e93d43cf6bf60663a36ddb348c56c1a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3f9f5f438752dc363f9d3d86826f9ad6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3f9f5f438752dc363f9d3d86826f9ad6.bin
+    projectPath: Library\ShaderCache\3\3f9f5f438752dc363f9d3d86826f9ad6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3fdc4428e01b8fe93658b51560468632.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\3\3fdc4428e01b8fe93658b51560468632.bin
+    projectPath: Library\ShaderCache\3\3fdc4428e01b8fe93658b51560468632.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4143840c67d0ed210ded7f6788114265.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\4143840c67d0ed210ded7f6788114265.bin
+    projectPath: Library\ShaderCache\4\4143840c67d0ed210ded7f6788114265.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\41ae917b91f019389d042a0a7a54151c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\41ae917b91f019389d042a0a7a54151c.bin
+    projectPath: Library\ShaderCache\4\41ae917b91f019389d042a0a7a54151c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\42297fd2d2326dd42f2ef7e291c16e1a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\42297fd2d2326dd42f2ef7e291c16e1a.bin
+    projectPath: Library\ShaderCache\4\42297fd2d2326dd42f2ef7e291c16e1a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\42a8ccc1f772aa0f9d6fde27f6fab4aa.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\42a8ccc1f772aa0f9d6fde27f6fab4aa.bin
+    projectPath: Library\ShaderCache\4\42a8ccc1f772aa0f9d6fde27f6fab4aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\45c6e1b111728ebfa6bbb15b1c4c78f7.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\45c6e1b111728ebfa6bbb15b1c4c78f7.bin
+    projectPath: Library\ShaderCache\4\45c6e1b111728ebfa6bbb15b1c4c78f7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\46a85e3e56c9e4c7aab7af7f5392a2c9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\46a85e3e56c9e4c7aab7af7f5392a2c9.bin
+    projectPath: Library\ShaderCache\4\46a85e3e56c9e4c7aab7af7f5392a2c9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4725c33f58ab29d866311d214f7d43fb.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\4725c33f58ab29d866311d214f7d43fb.bin
+    projectPath: Library\ShaderCache\4\4725c33f58ab29d866311d214f7d43fb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\48ab8802d98278c213df4e8182eb91e6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\48ab8802d98278c213df4e8182eb91e6.bin
+    projectPath: Library\ShaderCache\4\48ab8802d98278c213df4e8182eb91e6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4b85eaa48794cc58e3ee90ae911d326b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\4b85eaa48794cc58e3ee90ae911d326b.bin
+    projectPath: Library\ShaderCache\4\4b85eaa48794cc58e3ee90ae911d326b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4cbc8d6df96816403086197507ad3307.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\4\4cbc8d6df96816403086197507ad3307.bin
+    projectPath: Library\ShaderCache\4\4cbc8d6df96816403086197507ad3307.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\50e6724f36dbcbb3800f41cc4a4ab532.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\50e6724f36dbcbb3800f41cc4a4ab532.bin
+    projectPath: Library\ShaderCache\5\50e6724f36dbcbb3800f41cc4a4ab532.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\50fcd937c077051b10d31075b9341ff5.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\50fcd937c077051b10d31075b9341ff5.bin
+    projectPath: Library\ShaderCache\5\50fcd937c077051b10d31075b9341ff5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\524550f003ed7a2d3445da6b43c74a76.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\524550f003ed7a2d3445da6b43c74a76.bin
+    projectPath: Library\ShaderCache\5\524550f003ed7a2d3445da6b43c74a76.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\534f711e1bb7e3ee24d3459a0ac34db2.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\534f711e1bb7e3ee24d3459a0ac34db2.bin
+    projectPath: Library\ShaderCache\5\534f711e1bb7e3ee24d3459a0ac34db2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5364c5fbb1c70c9f0d2cfab63de897ac.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5364c5fbb1c70c9f0d2cfab63de897ac.bin
+    projectPath: Library\ShaderCache\5\5364c5fbb1c70c9f0d2cfab63de897ac.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\53bcfdd169150fa73c25dec0c0f28b07.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\53bcfdd169150fa73c25dec0c0f28b07.bin
+    projectPath: Library\ShaderCache\5\53bcfdd169150fa73c25dec0c0f28b07.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\54006dd0a736c8b453bcc43e26443522.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\54006dd0a736c8b453bcc43e26443522.bin
+    projectPath: Library\ShaderCache\5\54006dd0a736c8b453bcc43e26443522.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\540afbd3a8fd04ab01344038dfd94b51.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\540afbd3a8fd04ab01344038dfd94b51.bin
+    projectPath: Library\ShaderCache\5\540afbd3a8fd04ab01344038dfd94b51.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\55ec340abc0056cccb6b13c3e60c35d4.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\55ec340abc0056cccb6b13c3e60c35d4.bin
+    projectPath: Library\ShaderCache\5\55ec340abc0056cccb6b13c3e60c35d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5600385c9ba00451064a578dfb0b4258.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5600385c9ba00451064a578dfb0b4258.bin
+    projectPath: Library\ShaderCache\5\5600385c9ba00451064a578dfb0b4258.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5766691ca181f1d1e842d706f592131c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5766691ca181f1d1e842d706f592131c.bin
+    projectPath: Library\ShaderCache\5\5766691ca181f1d1e842d706f592131c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\58a689e86267c3be6d063facd8010c70.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\58a689e86267c3be6d063facd8010c70.bin
+    projectPath: Library\ShaderCache\5\58a689e86267c3be6d063facd8010c70.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\58c9a41400ae0595059b122a273d235b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\58c9a41400ae0595059b122a273d235b.bin
+    projectPath: Library\ShaderCache\5\58c9a41400ae0595059b122a273d235b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\59897ff11fb5854e7266138bfeeb74d2.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\59897ff11fb5854e7266138bfeeb74d2.bin
+    projectPath: Library\ShaderCache\5\59897ff11fb5854e7266138bfeeb74d2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5c04a660fe4a7dc96dcb475c9ce28057.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5c04a660fe4a7dc96dcb475c9ce28057.bin
+    projectPath: Library\ShaderCache\5\5c04a660fe4a7dc96dcb475c9ce28057.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5c67be338960dd198eda9cb7f4bc73b8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5c67be338960dd198eda9cb7f4bc73b8.bin
+    projectPath: Library\ShaderCache\5\5c67be338960dd198eda9cb7f4bc73b8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5dac300126bc77d5d6727aa0e9420f43.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5dac300126bc77d5d6727aa0e9420f43.bin
+    projectPath: Library\ShaderCache\5\5dac300126bc77d5d6727aa0e9420f43.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5db800e3285dd129d6cea0d0c1836942.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5db800e3285dd129d6cea0d0c1836942.bin
+    projectPath: Library\ShaderCache\5\5db800e3285dd129d6cea0d0c1836942.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5dc8c82e318d3b154164697955db91ef.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\5\5dc8c82e318d3b154164697955db91ef.bin
+    projectPath: Library\ShaderCache\5\5dc8c82e318d3b154164697955db91ef.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\61c328a1be1659748c42c8c2b54230de.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\61c328a1be1659748c42c8c2b54230de.bin
+    projectPath: Library\ShaderCache\6\61c328a1be1659748c42c8c2b54230de.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\622b062d32f2861e6378ab1e03093d7d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\622b062d32f2861e6378ab1e03093d7d.bin
+    projectPath: Library\ShaderCache\6\622b062d32f2861e6378ab1e03093d7d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\627c2eb99767062ff37978b53b2a91fb.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\627c2eb99767062ff37978b53b2a91fb.bin
+    projectPath: Library\ShaderCache\6\627c2eb99767062ff37978b53b2a91fb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\62f1f5d6a79605c416a983ca64bed50e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\62f1f5d6a79605c416a983ca64bed50e.bin
+    projectPath: Library\ShaderCache\6\62f1f5d6a79605c416a983ca64bed50e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6330ca2cc5a3892ed7a308aff81507b2.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\6330ca2cc5a3892ed7a308aff81507b2.bin
+    projectPath: Library\ShaderCache\6\6330ca2cc5a3892ed7a308aff81507b2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\633442349f40700f31146cf7498e4c00.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\633442349f40700f31146cf7498e4c00.bin
+    projectPath: Library\ShaderCache\6\633442349f40700f31146cf7498e4c00.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\640740f0e7517aa6eef6e5dde12a7d66.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\640740f0e7517aa6eef6e5dde12a7d66.bin
+    projectPath: Library\ShaderCache\6\640740f0e7517aa6eef6e5dde12a7d66.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\64ce2aa11df31523ab5e39d12025e72c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\64ce2aa11df31523ab5e39d12025e72c.bin
+    projectPath: Library\ShaderCache\6\64ce2aa11df31523ab5e39d12025e72c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\65e9108abc5920a5a5279d13b7a53664.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\65e9108abc5920a5a5279d13b7a53664.bin
+    projectPath: Library\ShaderCache\6\65e9108abc5920a5a5279d13b7a53664.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\668b5dae86183a2c6b3564650ad8d285.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\668b5dae86183a2c6b3564650ad8d285.bin
+    projectPath: Library\ShaderCache\6\668b5dae86183a2c6b3564650ad8d285.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\669aec150145c6cd8b683cd0df1924fc.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\669aec150145c6cd8b683cd0df1924fc.bin
+    projectPath: Library\ShaderCache\6\669aec150145c6cd8b683cd0df1924fc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\69123e15b8e3e2d36745c2721a8428bd.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\69123e15b8e3e2d36745c2721a8428bd.bin
+    projectPath: Library\ShaderCache\6\69123e15b8e3e2d36745c2721a8428bd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\69a6a938376c7a14296fd6ae6ada12b5.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\69a6a938376c7a14296fd6ae6ada12b5.bin
+    projectPath: Library\ShaderCache\6\69a6a938376c7a14296fd6ae6ada12b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\69f630d8b1973c6567fd93bf17671e56.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\69f630d8b1973c6567fd93bf17671e56.bin
+    projectPath: Library\ShaderCache\6\69f630d8b1973c6567fd93bf17671e56.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6c75e5a0385942525a7e425f2077512e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\6c75e5a0385942525a7e425f2077512e.bin
+    projectPath: Library\ShaderCache\6\6c75e5a0385942525a7e425f2077512e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6cfc438fb89cca8c3d7fd8d14bce3e8d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\6cfc438fb89cca8c3d7fd8d14bce3e8d.bin
+    projectPath: Library\ShaderCache\6\6cfc438fb89cca8c3d7fd8d14bce3e8d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6d642f0a059f5a7495ea72e39121f6a4.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\6d642f0a059f5a7495ea72e39121f6a4.bin
+    projectPath: Library\ShaderCache\6\6d642f0a059f5a7495ea72e39121f6a4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6d8155b843156b71dde5f52c49750c76.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\6d8155b843156b71dde5f52c49750c76.bin
+    projectPath: Library\ShaderCache\6\6d8155b843156b71dde5f52c49750c76.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6f7d8268280820da98482f98a9a8c028.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\6\6f7d8268280820da98482f98a9a8c028.bin
+    projectPath: Library\ShaderCache\6\6f7d8268280820da98482f98a9a8c028.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\71c496ab72162baf849729cb3b0b3098.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\71c496ab72162baf849729cb3b0b3098.bin
+    projectPath: Library\ShaderCache\7\71c496ab72162baf849729cb3b0b3098.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\737adcd1b7caeb4571ab03bde5e88b7e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\737adcd1b7caeb4571ab03bde5e88b7e.bin
+    projectPath: Library\ShaderCache\7\737adcd1b7caeb4571ab03bde5e88b7e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7426173959d7b35fe88592ad128bccaf.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7426173959d7b35fe88592ad128bccaf.bin
+    projectPath: Library\ShaderCache\7\7426173959d7b35fe88592ad128bccaf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\786065e56fca248785bd329ebf426cbd.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\786065e56fca248785bd329ebf426cbd.bin
+    projectPath: Library\ShaderCache\7\786065e56fca248785bd329ebf426cbd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\79c1de4d0e10e38abbbf16f5a9947db7.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\79c1de4d0e10e38abbbf16f5a9947db7.bin
+    projectPath: Library\ShaderCache\7\79c1de4d0e10e38abbbf16f5a9947db7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\79f464367cc8c8ef8eb1de674c00af01.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\79f464367cc8c8ef8eb1de674c00af01.bin
+    projectPath: Library\ShaderCache\7\79f464367cc8c8ef8eb1de674c00af01.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\79f89dfbb9bdd1e1903b744cc7edbec8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\79f89dfbb9bdd1e1903b744cc7edbec8.bin
+    projectPath: Library\ShaderCache\7\79f89dfbb9bdd1e1903b744cc7edbec8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7a6c98ad844c1722ee251785fe41c0a7.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7a6c98ad844c1722ee251785fe41c0a7.bin
+    projectPath: Library\ShaderCache\7\7a6c98ad844c1722ee251785fe41c0a7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7ad8f4a1f696984ee1372d38f05ce3fa.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7ad8f4a1f696984ee1372d38f05ce3fa.bin
+    projectPath: Library\ShaderCache\7\7ad8f4a1f696984ee1372d38f05ce3fa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7b3e1b20e647920d579f76ca453cc019.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7b3e1b20e647920d579f76ca453cc019.bin
+    projectPath: Library\ShaderCache\7\7b3e1b20e647920d579f76ca453cc019.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7b62f3fcb8a041c10ddb9afa6ce9290c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7b62f3fcb8a041c10ddb9afa6ce9290c.bin
+    projectPath: Library\ShaderCache\7\7b62f3fcb8a041c10ddb9afa6ce9290c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7b9a8f10b6a309fa3ed64a328a45ab98.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7b9a8f10b6a309fa3ed64a328a45ab98.bin
+    projectPath: Library\ShaderCache\7\7b9a8f10b6a309fa3ed64a328a45ab98.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7c78b106f9dedbb81491c3653c6f14ed.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7c78b106f9dedbb81491c3653c6f14ed.bin
+    projectPath: Library\ShaderCache\7\7c78b106f9dedbb81491c3653c6f14ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7ec862da181abda96289bf3d266b422d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\7\7ec862da181abda96289bf3d266b422d.bin
+    projectPath: Library\ShaderCache\7\7ec862da181abda96289bf3d266b422d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\813891d381b8d7cfdde4ec5fdbb98997.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\813891d381b8d7cfdde4ec5fdbb98997.bin
+    projectPath: Library\ShaderCache\8\813891d381b8d7cfdde4ec5fdbb98997.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\826276c7f31cabfc1dd8aab3dc0dd174.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\826276c7f31cabfc1dd8aab3dc0dd174.bin
+    projectPath: Library\ShaderCache\8\826276c7f31cabfc1dd8aab3dc0dd174.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\82f55debb937bf69d028ef65071c3acb.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\82f55debb937bf69d028ef65071c3acb.bin
+    projectPath: Library\ShaderCache\8\82f55debb937bf69d028ef65071c3acb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8322caea7865e3171dbf9ffdcc889bdd.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\8322caea7865e3171dbf9ffdcc889bdd.bin
+    projectPath: Library\ShaderCache\8\8322caea7865e3171dbf9ffdcc889bdd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\836d68f7a9ac6fe35cd9361787af36ba.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\836d68f7a9ac6fe35cd9361787af36ba.bin
+    projectPath: Library\ShaderCache\8\836d68f7a9ac6fe35cd9361787af36ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\840da0cc0606c9547ca0a2476abf1a59.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\840da0cc0606c9547ca0a2476abf1a59.bin
+    projectPath: Library\ShaderCache\8\840da0cc0606c9547ca0a2476abf1a59.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\853d31642fc8f9f70a81d72cb852cbba.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\853d31642fc8f9f70a81d72cb852cbba.bin
+    projectPath: Library\ShaderCache\8\853d31642fc8f9f70a81d72cb852cbba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\86e4a2eaebc094650577081cb26605ff.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\86e4a2eaebc094650577081cb26605ff.bin
+    projectPath: Library\ShaderCache\8\86e4a2eaebc094650577081cb26605ff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\87aadf29a0ca13f43b4a8ab62ed89408.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\87aadf29a0ca13f43b4a8ab62ed89408.bin
+    projectPath: Library\ShaderCache\8\87aadf29a0ca13f43b4a8ab62ed89408.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\87f29ff64005d32b6e3dd24eeb854489.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\87f29ff64005d32b6e3dd24eeb854489.bin
+    projectPath: Library\ShaderCache\8\87f29ff64005d32b6e3dd24eeb854489.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\882521ec9b2ed9c18f768d40c7e68b53.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\882521ec9b2ed9c18f768d40c7e68b53.bin
+    projectPath: Library\ShaderCache\8\882521ec9b2ed9c18f768d40c7e68b53.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\88c1e6c61a952ac560fee3ba3a61d898.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\88c1e6c61a952ac560fee3ba3a61d898.bin
+    projectPath: Library\ShaderCache\8\88c1e6c61a952ac560fee3ba3a61d898.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\88ea1c662804e78d23459081df06000a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\88ea1c662804e78d23459081df06000a.bin
+    projectPath: Library\ShaderCache\8\88ea1c662804e78d23459081df06000a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8a4ed34241f35b31fe152e1fc9949d58.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\8a4ed34241f35b31fe152e1fc9949d58.bin
+    projectPath: Library\ShaderCache\8\8a4ed34241f35b31fe152e1fc9949d58.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8a89c52632da63855f66e4b1662595a4.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\8a89c52632da63855f66e4b1662595a4.bin
+    projectPath: Library\ShaderCache\8\8a89c52632da63855f66e4b1662595a4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8bfdac48bd502c0944288f670a06f673.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\8bfdac48bd502c0944288f670a06f673.bin
+    projectPath: Library\ShaderCache\8\8bfdac48bd502c0944288f670a06f673.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8c81b505b862448cf491a917d2c501fd.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\8c81b505b862448cf491a917d2c501fd.bin
+    projectPath: Library\ShaderCache\8\8c81b505b862448cf491a917d2c501fd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8dd9da3eb7269471214686757675751e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\8\8dd9da3eb7269471214686757675751e.bin
+    projectPath: Library\ShaderCache\8\8dd9da3eb7269471214686757675751e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\91304eb8ea8908e25ee723d2dd149d95.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\91304eb8ea8908e25ee723d2dd149d95.bin
+    projectPath: Library\ShaderCache\9\91304eb8ea8908e25ee723d2dd149d95.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\916ce9d382d7e89d25b8424e8b38c3b0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\916ce9d382d7e89d25b8424e8b38c3b0.bin
+    projectPath: Library\ShaderCache\9\916ce9d382d7e89d25b8424e8b38c3b0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\92824630bfca65afc8d48b7ca26320d8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\92824630bfca65afc8d48b7ca26320d8.bin
+    projectPath: Library\ShaderCache\9\92824630bfca65afc8d48b7ca26320d8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\930c0f0f3ff552d8306f331c3bdf3e12.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\930c0f0f3ff552d8306f331c3bdf3e12.bin
+    projectPath: Library\ShaderCache\9\930c0f0f3ff552d8306f331c3bdf3e12.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\94c6e0d5b8a6ba3746f327f5456d6758.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\94c6e0d5b8a6ba3746f327f5456d6758.bin
+    projectPath: Library\ShaderCache\9\94c6e0d5b8a6ba3746f327f5456d6758.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\95e03adeb069eca063925b98fc8618f8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\95e03adeb069eca063925b98fc8618f8.bin
+    projectPath: Library\ShaderCache\9\95e03adeb069eca063925b98fc8618f8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\97415fdb3c7c5269c72456ca7b05d2a3.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\97415fdb3c7c5269c72456ca7b05d2a3.bin
+    projectPath: Library\ShaderCache\9\97415fdb3c7c5269c72456ca7b05d2a3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9848cf12e5203d3f6ca3cb5011d560f9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9848cf12e5203d3f6ca3cb5011d560f9.bin
+    projectPath: Library\ShaderCache\9\9848cf12e5203d3f6ca3cb5011d560f9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9a19eb374f18c6855b888ec7f020c7fa.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9a19eb374f18c6855b888ec7f020c7fa.bin
+    projectPath: Library\ShaderCache\9\9a19eb374f18c6855b888ec7f020c7fa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9c244224a26f873fd4409e02b770e5ba.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9c244224a26f873fd4409e02b770e5ba.bin
+    projectPath: Library\ShaderCache\9\9c244224a26f873fd4409e02b770e5ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9ce667e01ea639f73740b3857f891d78.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9ce667e01ea639f73740b3857f891d78.bin
+    projectPath: Library\ShaderCache\9\9ce667e01ea639f73740b3857f891d78.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9e1df87970c232e2241aa370a8fdbc2d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9e1df87970c232e2241aa370a8fdbc2d.bin
+    projectPath: Library\ShaderCache\9\9e1df87970c232e2241aa370a8fdbc2d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9e303e3b3fa1aea529aee3d66cc23c2c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9e303e3b3fa1aea529aee3d66cc23c2c.bin
+    projectPath: Library\ShaderCache\9\9e303e3b3fa1aea529aee3d66cc23c2c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9e4d74c2f8391b7be6985bcc57d6656b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9e4d74c2f8391b7be6985bcc57d6656b.bin
+    projectPath: Library\ShaderCache\9\9e4d74c2f8391b7be6985bcc57d6656b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9ed8434d70801b6f6306074170f46962.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9ed8434d70801b6f6306074170f46962.bin
+    projectPath: Library\ShaderCache\9\9ed8434d70801b6f6306074170f46962.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9efc95ca8e25e827a3a764e8cdbb60fd.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9efc95ca8e25e827a3a764e8cdbb60fd.bin
+    projectPath: Library\ShaderCache\9\9efc95ca8e25e827a3a764e8cdbb60fd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9f51ef7bcc613a22e7b28a78c3515ced.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9f51ef7bcc613a22e7b28a78c3515ced.bin
+    projectPath: Library\ShaderCache\9\9f51ef7bcc613a22e7b28a78c3515ced.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9ff83f4e3b750e32160e52c75ec5790c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\9\9ff83f4e3b750e32160e52c75ec5790c.bin
+    projectPath: Library\ShaderCache\9\9ff83f4e3b750e32160e52c75ec5790c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a01419b972e40c56e2b5bff4fb3ca5f5.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a01419b972e40c56e2b5bff4fb3ca5f5.bin
+    projectPath: Library\ShaderCache\a\a01419b972e40c56e2b5bff4fb3ca5f5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a0171d2a1719eecd448983e18694ac6e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a0171d2a1719eecd448983e18694ac6e.bin
+    projectPath: Library\ShaderCache\a\a0171d2a1719eecd448983e18694ac6e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a0ffe1768d8c0a767cf847cf1fb76146.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a0ffe1768d8c0a767cf847cf1fb76146.bin
+    projectPath: Library\ShaderCache\a\a0ffe1768d8c0a767cf847cf1fb76146.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a19f1b0d105bba874551c600b0573e89.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a19f1b0d105bba874551c600b0573e89.bin
+    projectPath: Library\ShaderCache\a\a19f1b0d105bba874551c600b0573e89.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a279f8c01fd2697d9b2b40ac733158d6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a279f8c01fd2697d9b2b40ac733158d6.bin
+    projectPath: Library\ShaderCache\a\a279f8c01fd2697d9b2b40ac733158d6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a290b8b1c3bd64be0cc583180daa230f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a290b8b1c3bd64be0cc583180daa230f.bin
+    projectPath: Library\ShaderCache\a\a290b8b1c3bd64be0cc583180daa230f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a3e1556f1fed6d785107079cfc069cce.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a3e1556f1fed6d785107079cfc069cce.bin
+    projectPath: Library\ShaderCache\a\a3e1556f1fed6d785107079cfc069cce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a426a0bfa869e3edc66ba81bec60db9d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a426a0bfa869e3edc66ba81bec60db9d.bin
+    projectPath: Library\ShaderCache\a\a426a0bfa869e3edc66ba81bec60db9d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a51782e034b83da27d66bfda8cf5355c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a51782e034b83da27d66bfda8cf5355c.bin
+    projectPath: Library\ShaderCache\a\a51782e034b83da27d66bfda8cf5355c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a5311ad1b473f4a38fd4bf0a843bd11e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a5311ad1b473f4a38fd4bf0a843bd11e.bin
+    projectPath: Library\ShaderCache\a\a5311ad1b473f4a38fd4bf0a843bd11e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a5c06bbebd7942a112f18ef6ef80611d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a5c06bbebd7942a112f18ef6ef80611d.bin
+    projectPath: Library\ShaderCache\a\a5c06bbebd7942a112f18ef6ef80611d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a69ff54c95d65c540ce6cc0e8f866a10.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a69ff54c95d65c540ce6cc0e8f866a10.bin
+    projectPath: Library\ShaderCache\a\a69ff54c95d65c540ce6cc0e8f866a10.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a7f395434ae43e2aa4b1260129912f5a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a7f395434ae43e2aa4b1260129912f5a.bin
+    projectPath: Library\ShaderCache\a\a7f395434ae43e2aa4b1260129912f5a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a9a265694a934fb77b1fb32422229488.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a9a265694a934fb77b1fb32422229488.bin
+    projectPath: Library\ShaderCache\a\a9a265694a934fb77b1fb32422229488.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a9d810d1538117588ae08b066be74de4.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\a9d810d1538117588ae08b066be74de4.bin
+    projectPath: Library\ShaderCache\a\a9d810d1538117588ae08b066be74de4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aace279c9a8cf189bcb51ab895486dbc.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\aace279c9a8cf189bcb51ab895486dbc.bin
+    projectPath: Library\ShaderCache\a\aace279c9a8cf189bcb51ab895486dbc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ab5640b7a717ced0b39fc2777f44b637.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\ab5640b7a717ced0b39fc2777f44b637.bin
+    projectPath: Library\ShaderCache\a\ab5640b7a717ced0b39fc2777f44b637.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ab74e7a77836976d66ea5142949eaffe.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\ab74e7a77836976d66ea5142949eaffe.bin
+    projectPath: Library\ShaderCache\a\ab74e7a77836976d66ea5142949eaffe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ac305fff4111930b95a93c0e5777f05d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\ac305fff4111930b95a93c0e5777f05d.bin
+    projectPath: Library\ShaderCache\a\ac305fff4111930b95a93c0e5777f05d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ace33ebd41a935ff6642f5f2f132f1ac.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\ace33ebd41a935ff6642f5f2f132f1ac.bin
+    projectPath: Library\ShaderCache\a\ace33ebd41a935ff6642f5f2f132f1ac.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ad65fb6234378da2e780e4e9b1cfd4ca.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\ad65fb6234378da2e780e4e9b1cfd4ca.bin
+    projectPath: Library\ShaderCache\a\ad65fb6234378da2e780e4e9b1cfd4ca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ae2d544b2fac125cb6a16fa1253f2ac4.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\ae2d544b2fac125cb6a16fa1253f2ac4.bin
+    projectPath: Library\ShaderCache\a\ae2d544b2fac125cb6a16fa1253f2ac4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ae92f8eb48d9a1feda14ae286000f056.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\ae92f8eb48d9a1feda14ae286000f056.bin
+    projectPath: Library\ShaderCache\a\ae92f8eb48d9a1feda14ae286000f056.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\afd127bafb152a7eb1ea3d340d2935b6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\a\afd127bafb152a7eb1ea3d340d2935b6.bin
+    projectPath: Library\ShaderCache\a\afd127bafb152a7eb1ea3d340d2935b6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b050eabfe337f2e112dc13571db3df4e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b050eabfe337f2e112dc13571db3df4e.bin
+    projectPath: Library\ShaderCache\b\b050eabfe337f2e112dc13571db3df4e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b068d34f1f667dd69560d7a8acea7b08.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b068d34f1f667dd69560d7a8acea7b08.bin
+    projectPath: Library\ShaderCache\b\b068d34f1f667dd69560d7a8acea7b08.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b0b1ab1f486729a41787b898b24d1232.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b0b1ab1f486729a41787b898b24d1232.bin
+    projectPath: Library\ShaderCache\b\b0b1ab1f486729a41787b898b24d1232.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b12078a973aec9858ec430097eb02758.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b12078a973aec9858ec430097eb02758.bin
+    projectPath: Library\ShaderCache\b\b12078a973aec9858ec430097eb02758.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b19e6a9dcb43d766d6666b0b1d66479e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b19e6a9dcb43d766d6666b0b1d66479e.bin
+    projectPath: Library\ShaderCache\b\b19e6a9dcb43d766d6666b0b1d66479e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b2640c80911ed21550ff078964d82a3e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b2640c80911ed21550ff078964d82a3e.bin
+    projectPath: Library\ShaderCache\b\b2640c80911ed21550ff078964d82a3e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b372ecf5bbc7993fd51705dd3034fe17.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b372ecf5bbc7993fd51705dd3034fe17.bin
+    projectPath: Library\ShaderCache\b\b372ecf5bbc7993fd51705dd3034fe17.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b3b07b67c30dc6c4c2aa26d4fe75ec4f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b3b07b67c30dc6c4c2aa26d4fe75ec4f.bin
+    projectPath: Library\ShaderCache\b\b3b07b67c30dc6c4c2aa26d4fe75ec4f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b4a25f587469f5262e016e5f49a1e47f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b4a25f587469f5262e016e5f49a1e47f.bin
+    projectPath: Library\ShaderCache\b\b4a25f587469f5262e016e5f49a1e47f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b67e53cfbb87eecf3d6f882c8a197f63.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b67e53cfbb87eecf3d6f882c8a197f63.bin
+    projectPath: Library\ShaderCache\b\b67e53cfbb87eecf3d6f882c8a197f63.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b6dded8d86c21ff01ad23236372f92db.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b6dded8d86c21ff01ad23236372f92db.bin
+    projectPath: Library\ShaderCache\b\b6dded8d86c21ff01ad23236372f92db.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b72c151d121f7ceeb5e7ee77669d44ea.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b72c151d121f7ceeb5e7ee77669d44ea.bin
+    projectPath: Library\ShaderCache\b\b72c151d121f7ceeb5e7ee77669d44ea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b74be88bda5178f15c23ee6b77ac8707.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b74be88bda5178f15c23ee6b77ac8707.bin
+    projectPath: Library\ShaderCache\b\b74be88bda5178f15c23ee6b77ac8707.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b78f405cff2708bf3298134329f1024b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b78f405cff2708bf3298134329f1024b.bin
+    projectPath: Library\ShaderCache\b\b78f405cff2708bf3298134329f1024b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b8ca90808e224b979e308c0efc2f8081.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\b8ca90808e224b979e308c0efc2f8081.bin
+    projectPath: Library\ShaderCache\b\b8ca90808e224b979e308c0efc2f8081.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bafc5be9b0dec12c20409f8822262b5f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\bafc5be9b0dec12c20409f8822262b5f.bin
+    projectPath: Library\ShaderCache\b\bafc5be9b0dec12c20409f8822262b5f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bb50ff0655123b4f8bdc217ff5b264ae.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\bb50ff0655123b4f8bdc217ff5b264ae.bin
+    projectPath: Library\ShaderCache\b\bb50ff0655123b4f8bdc217ff5b264ae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bc95d62835a480259686baed5ae8dcb9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\bc95d62835a480259686baed5ae8dcb9.bin
+    projectPath: Library\ShaderCache\b\bc95d62835a480259686baed5ae8dcb9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\be87a986bd91bb146e35e3bfbc02cb28.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\be87a986bd91bb146e35e3bfbc02cb28.bin
+    projectPath: Library\ShaderCache\b\be87a986bd91bb146e35e3bfbc02cb28.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\be9887ba3d1fe760c1a82ac8e790887c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\be9887ba3d1fe760c1a82ac8e790887c.bin
+    projectPath: Library\ShaderCache\b\be9887ba3d1fe760c1a82ac8e790887c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bf31c9a023bd0e5bc6a75ee0d55a2e99.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\b\bf31c9a023bd0e5bc6a75ee0d55a2e99.bin
+    projectPath: Library\ShaderCache\b\bf31c9a023bd0e5bc6a75ee0d55a2e99.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c16eef7619962bfc52851a535d3f56e9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c16eef7619962bfc52851a535d3f56e9.bin
+    projectPath: Library\ShaderCache\c\c16eef7619962bfc52851a535d3f56e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c23637418a171664d99b64cf10da417c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c23637418a171664d99b64cf10da417c.bin
+    projectPath: Library\ShaderCache\c\c23637418a171664d99b64cf10da417c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c238e11ca1ff6be31e0b914518c063ff.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c238e11ca1ff6be31e0b914518c063ff.bin
+    projectPath: Library\ShaderCache\c\c238e11ca1ff6be31e0b914518c063ff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c27aca08aff0c810690f2fd9d48c333c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c27aca08aff0c810690f2fd9d48c333c.bin
+    projectPath: Library\ShaderCache\c\c27aca08aff0c810690f2fd9d48c333c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c5ad3069cf04c3c6ac412af73f6bbeb7.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c5ad3069cf04c3c6ac412af73f6bbeb7.bin
+    projectPath: Library\ShaderCache\c\c5ad3069cf04c3c6ac412af73f6bbeb7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c64421f5c03d7ea53153f78c9e36aac6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c64421f5c03d7ea53153f78c9e36aac6.bin
+    projectPath: Library\ShaderCache\c\c64421f5c03d7ea53153f78c9e36aac6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c7d6aaed4ae699623db701bd56c4ee4a.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c7d6aaed4ae699623db701bd56c4ee4a.bin
+    projectPath: Library\ShaderCache\c\c7d6aaed4ae699623db701bd56c4ee4a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c99e0110ba0ef2e69a6c2285206f88b2.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\c99e0110ba0ef2e69a6c2285206f88b2.bin
+    projectPath: Library\ShaderCache\c\c99e0110ba0ef2e69a6c2285206f88b2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\ca8ebf95f2b77b9e388800634de8cb7d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\ca8ebf95f2b77b9e388800634de8cb7d.bin
+    projectPath: Library\ShaderCache\c\ca8ebf95f2b77b9e388800634de8cb7d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cca51df827ee9609b2bb8cb97103bc99.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\cca51df827ee9609b2bb8cb97103bc99.bin
+    projectPath: Library\ShaderCache\c\cca51df827ee9609b2bb8cb97103bc99.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\ce25f3d169448bb4600dd273448a77fb.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\ce25f3d169448bb4600dd273448a77fb.bin
+    projectPath: Library\ShaderCache\c\ce25f3d169448bb4600dd273448a77fb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\ce47e986ad49e2a2901985ac51e572c6.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\ce47e986ad49e2a2901985ac51e572c6.bin
+    projectPath: Library\ShaderCache\c\ce47e986ad49e2a2901985ac51e572c6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cf061a0d0beae920baa3cef0e431dff0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\c\cf061a0d0beae920baa3cef0e431dff0.bin
+    projectPath: Library\ShaderCache\c\cf061a0d0beae920baa3cef0e431dff0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d11573a7aca20a4c438605e62c16e4ee.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d11573a7aca20a4c438605e62c16e4ee.bin
+    projectPath: Library\ShaderCache\d\d11573a7aca20a4c438605e62c16e4ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d2f05be80e45c3965dd68359cdacc6b9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d2f05be80e45c3965dd68359cdacc6b9.bin
+    projectPath: Library\ShaderCache\d\d2f05be80e45c3965dd68359cdacc6b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d339c618aa1c84fa689205f417c99970.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d339c618aa1c84fa689205f417c99970.bin
+    projectPath: Library\ShaderCache\d\d339c618aa1c84fa689205f417c99970.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d5b4e0b7c48d3b28eb6a9cd9fca3001e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d5b4e0b7c48d3b28eb6a9cd9fca3001e.bin
+    projectPath: Library\ShaderCache\d\d5b4e0b7c48d3b28eb6a9cd9fca3001e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d5c265e96f08aaa3e38d7c62ee4f54de.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d5c265e96f08aaa3e38d7c62ee4f54de.bin
+    projectPath: Library\ShaderCache\d\d5c265e96f08aaa3e38d7c62ee4f54de.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d66f9cc198a4e8f5f4418ac70fe2bd5b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d66f9cc198a4e8f5f4418ac70fe2bd5b.bin
+    projectPath: Library\ShaderCache\d\d66f9cc198a4e8f5f4418ac70fe2bd5b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d6c68a32a21bf3aebce5c823533a2fb0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d6c68a32a21bf3aebce5c823533a2fb0.bin
+    projectPath: Library\ShaderCache\d\d6c68a32a21bf3aebce5c823533a2fb0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d6d905a67f499f36c8d45d436a586c5f.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d6d905a67f499f36c8d45d436a586c5f.bin
+    projectPath: Library\ShaderCache\d\d6d905a67f499f36c8d45d436a586c5f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d76ecb23171a10b673d23e8153fecb9c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d76ecb23171a10b673d23e8153fecb9c.bin
+    projectPath: Library\ShaderCache\d\d76ecb23171a10b673d23e8153fecb9c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d780bf67035fff46ed35c1784e7c66b7.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d780bf67035fff46ed35c1784e7c66b7.bin
+    projectPath: Library\ShaderCache\d\d780bf67035fff46ed35c1784e7c66b7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d7c5db27c0565707b58b3b5cab15ddd1.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d7c5db27c0565707b58b3b5cab15ddd1.bin
+    projectPath: Library\ShaderCache\d\d7c5db27c0565707b58b3b5cab15ddd1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d81ce8963710b581cfc0ce0c5f21b78e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d81ce8963710b581cfc0ce0c5f21b78e.bin
+    projectPath: Library\ShaderCache\d\d81ce8963710b581cfc0ce0c5f21b78e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d877a6c73875d38d307acb574b55303c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\d877a6c73875d38d307acb574b55303c.bin
+    projectPath: Library\ShaderCache\d\d877a6c73875d38d307acb574b55303c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\da94f40a83e72c0b83f5409a2981fb60.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\da94f40a83e72c0b83f5409a2981fb60.bin
+    projectPath: Library\ShaderCache\d\da94f40a83e72c0b83f5409a2981fb60.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dc866b7d809f3e109dca106900bd4017.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\dc866b7d809f3e109dca106900bd4017.bin
+    projectPath: Library\ShaderCache\d\dc866b7d809f3e109dca106900bd4017.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dc973fdbd553c19ea35b490a4b51afd5.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\dc973fdbd553c19ea35b490a4b51afd5.bin
+    projectPath: Library\ShaderCache\d\dc973fdbd553c19ea35b490a4b51afd5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\de32ebad81757d6d2e2b490943dc35d0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\de32ebad81757d6d2e2b490943dc35d0.bin
+    projectPath: Library\ShaderCache\d\de32ebad81757d6d2e2b490943dc35d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\deb4e00e49a7f56d4821ff672099bec0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\deb4e00e49a7f56d4821ff672099bec0.bin
+    projectPath: Library\ShaderCache\d\deb4e00e49a7f56d4821ff672099bec0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dede9dc8dd81fc0af91dc77ce4b833c7.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\d\dede9dc8dd81fc0af91dc77ce4b833c7.bin
+    projectPath: Library\ShaderCache\d\dede9dc8dd81fc0af91dc77ce4b833c7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e291bd841ac9ad3aad1878ee6bebe098.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e291bd841ac9ad3aad1878ee6bebe098.bin
+    projectPath: Library\ShaderCache\e\e291bd841ac9ad3aad1878ee6bebe098.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e44550e0bbd4382a62068ffa381171d8.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e44550e0bbd4382a62068ffa381171d8.bin
+    projectPath: Library\ShaderCache\e\e44550e0bbd4382a62068ffa381171d8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e5106fd391dfed93e24d3262ddd72814.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e5106fd391dfed93e24d3262ddd72814.bin
+    projectPath: Library\ShaderCache\e\e5106fd391dfed93e24d3262ddd72814.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e5a0f02e4e84f81c1266961214f6c113.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e5a0f02e4e84f81c1266961214f6c113.bin
+    projectPath: Library\ShaderCache\e\e5a0f02e4e84f81c1266961214f6c113.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e5a3f8c9cc532dd54328e3b9c55e7ff5.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e5a3f8c9cc532dd54328e3b9c55e7ff5.bin
+    projectPath: Library\ShaderCache\e\e5a3f8c9cc532dd54328e3b9c55e7ff5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e67484247f025a7ce27b2f778aa7b1cd.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e67484247f025a7ce27b2f778aa7b1cd.bin
+    projectPath: Library\ShaderCache\e\e67484247f025a7ce27b2f778aa7b1cd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e8bff2bfdff46544eb9279741913dfab.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e8bff2bfdff46544eb9279741913dfab.bin
+    projectPath: Library\ShaderCache\e\e8bff2bfdff46544eb9279741913dfab.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e8de4190a8bdfb534a8275eb24867b61.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e8de4190a8bdfb534a8275eb24867b61.bin
+    projectPath: Library\ShaderCache\e\e8de4190a8bdfb534a8275eb24867b61.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e8e335be004f1775fa6646709f288f0e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e8e335be004f1775fa6646709f288f0e.bin
+    projectPath: Library\ShaderCache\e\e8e335be004f1775fa6646709f288f0e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e931407efded497442132c76b3183e23.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\e931407efded497442132c76b3183e23.bin
+    projectPath: Library\ShaderCache\e\e931407efded497442132c76b3183e23.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ea035e4f30e23b102c8ca080414bfd11.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\ea035e4f30e23b102c8ca080414bfd11.bin
+    projectPath: Library\ShaderCache\e\ea035e4f30e23b102c8ca080414bfd11.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ea52bc130e6d55b22967d5a479dcbde9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\ea52bc130e6d55b22967d5a479dcbde9.bin
+    projectPath: Library\ShaderCache\e\ea52bc130e6d55b22967d5a479dcbde9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ebea3d56ee5acf5478460bc19e725ae0.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\ebea3d56ee5acf5478460bc19e725ae0.bin
+    projectPath: Library\ShaderCache\e\ebea3d56ee5acf5478460bc19e725ae0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ec4320ce7445b6e9056970245ddb6bf4.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\ec4320ce7445b6e9056970245ddb6bf4.bin
+    projectPath: Library\ShaderCache\e\ec4320ce7445b6e9056970245ddb6bf4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ec534b6a2612c08d50e692a0b8f178e5.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\ec534b6a2612c08d50e692a0b8f178e5.bin
+    projectPath: Library\ShaderCache\e\ec534b6a2612c08d50e692a0b8f178e5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ed8ba209b76cb1aa3de16911d0a4c9d5.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\ed8ba209b76cb1aa3de16911d0a4c9d5.bin
+    projectPath: Library\ShaderCache\e\ed8ba209b76cb1aa3de16911d0a4c9d5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ef8b91e049ca4fb94ec223955843c391.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\ef8b91e049ca4fb94ec223955843c391.bin
+    projectPath: Library\ShaderCache\e\ef8b91e049ca4fb94ec223955843c391.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\effc5e24dfe177cc6e63eace0cd2fafc.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\e\effc5e24dfe177cc6e63eace0cd2fafc.bin
+    projectPath: Library\ShaderCache\e\effc5e24dfe177cc6e63eace0cd2fafc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f05378bf6216b5f08ad10b36636fde42.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f05378bf6216b5f08ad10b36636fde42.bin
+    projectPath: Library\ShaderCache\f\f05378bf6216b5f08ad10b36636fde42.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f10a6d1bec0e865aa09b8da3906d0b42.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f10a6d1bec0e865aa09b8da3906d0b42.bin
+    projectPath: Library\ShaderCache\f\f10a6d1bec0e865aa09b8da3906d0b42.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f27977bc8ac5513170727470c6b5bf40.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f27977bc8ac5513170727470c6b5bf40.bin
+    projectPath: Library\ShaderCache\f\f27977bc8ac5513170727470c6b5bf40.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f2c29a7be3a8cfedd552609f3639d0ae.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f2c29a7be3a8cfedd552609f3639d0ae.bin
+    projectPath: Library\ShaderCache\f\f2c29a7be3a8cfedd552609f3639d0ae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f3756195f9fc0db9ca637cc0bce7e246.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f3756195f9fc0db9ca637cc0bce7e246.bin
+    projectPath: Library\ShaderCache\f\f3756195f9fc0db9ca637cc0bce7e246.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f538015270a036060fdcf967af8cc920.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f538015270a036060fdcf967af8cc920.bin
+    projectPath: Library\ShaderCache\f\f538015270a036060fdcf967af8cc920.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f5626053eb4678a19831a4745c57bd4b.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f5626053eb4678a19831a4745c57bd4b.bin
+    projectPath: Library\ShaderCache\f\f5626053eb4678a19831a4745c57bd4b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f916435f88854256e4ee484a9bda0d65.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\f916435f88854256e4ee484a9bda0d65.bin
+    projectPath: Library\ShaderCache\f\f916435f88854256e4ee484a9bda0d65.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fa890a62f4300aa809810d383397887e.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\fa890a62f4300aa809810d383397887e.bin
+    projectPath: Library\ShaderCache\f\fa890a62f4300aa809810d383397887e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fdab29c945025385fab2e9470168df91.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\fdab29c945025385fab2e9470168df91.bin
+    projectPath: Library\ShaderCache\f\fdab29c945025385fab2e9470168df91.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fdc1c58a755a5aa621ddf66d3985663d.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\fdc1c58a755a5aa621ddf66d3985663d.bin
+    projectPath: Library\ShaderCache\f\fdc1c58a755a5aa621ddf66d3985663d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fdff168469a3555d86f889ce1018955c.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\fdff168469a3555d86f889ce1018955c.bin
+    projectPath: Library\ShaderCache\f\fdff168469a3555d86f889ce1018955c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fec0e5d0e3e79c4539dbcd7267b540e9.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\fec0e5d0e3e79c4539dbcd7267b540e9.bin
+    projectPath: Library\ShaderCache\f\fec0e5d0e3e79c4539dbcd7267b540e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\ffc0d34e40588d212bb0322461925d54.bin
+    fullPath: C:\Final-Year-Project\Library\ShaderCache\f\ffc0d34e40588d212bb0322461925d54.bin
+    projectPath: Library\ShaderCache\f\ffc0d34e40588d212bb0322461925d54.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.Mathematics.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: C:\Final-Year-Project\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -442,213 +2608,789 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\bfeec5-mainStage.json
-    fullPath: C:\Final-Year-Project\Library\StateCache\SceneView\bfeec5-mainStage.json
-    projectPath: Library\StateCache\SceneView\bfeec5-mainStage.json
+  - path: MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    projectPath: MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    projectPath: MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\machine.config
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\2.0\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\2.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\settings.map
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\2.0\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\2.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\2.0\web.config
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\2.0\web.config
+    projectPath: MonoBleedingEdge\etc\mono\2.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\machine.config
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.0\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\4.0\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\settings.map
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.0\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\4.0\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.0\web.config
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.0\web.config
+    projectPath: MonoBleedingEdge\etc\mono\4.0\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    projectPath: MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    projectPath: MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\machine.config
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.5\machine.config
+    projectPath: MonoBleedingEdge\etc\mono\4.5\machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\settings.map
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.5\settings.map
+    projectPath: MonoBleedingEdge\etc\mono\4.5\settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\4.5\web.config
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\4.5\web.config
+    projectPath: MonoBleedingEdge\etc\mono\4.5\web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\browscap.ini
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\browscap.ini
+    projectPath: MonoBleedingEdge\etc\mono\browscap.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\config
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\config
+    projectPath: MonoBleedingEdge\etc\mono\config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: MonoBleedingEdge\etc\mono\mconfig\config.xml
+    fullPath: C:\Final-Year-Project\MonoBleedingEdge\etc\mono\mconfig\config.xml
+    projectPath: MonoBleedingEdge\etc\mono\mconfig\config.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Final-Year-Project\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Final-Year-Project\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: scratch.exe
+    fullPath: C:\Final-Year-Project\scratch.exe
+    projectPath: scratch.exe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\app.info
+    fullPath: C:\Final-Year-Project\scratch_Data\app.info
+    projectPath: scratch_Data\app.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\boot.config
+    fullPath: C:\Final-Year-Project\scratch_Data\boot.config
+    projectPath: scratch_Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\globalgamemanagers
+    fullPath: C:\Final-Year-Project\scratch_Data\globalgamemanagers
+    projectPath: scratch_Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\globalgamemanagers.assets
+    fullPath: C:\Final-Year-Project\scratch_Data\globalgamemanagers.assets
+    projectPath: scratch_Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\level0
+    fullPath: C:\Final-Year-Project\scratch_Data\level0
+    projectPath: scratch_Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Assembly-CSharp.dll
+    projectPath: scratch_Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Mono.Security.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Mono.Security.dll
+    projectPath: scratch_Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\mscorlib.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\mscorlib.dll
+    projectPath: scratch_Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\netstandard.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\netstandard.dll
+    projectPath: scratch_Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: scratch_Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Configuration.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Configuration.dll
+    projectPath: scratch_Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Core.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Core.dll
+    projectPath: scratch_Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Data.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Data.dll
+    projectPath: scratch_Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: scratch_Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.dll
+    projectPath: scratch_Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Drawing.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Drawing.dll
+    projectPath: scratch_Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.EnterpriseServices.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.EnterpriseServices.dll
+    projectPath: scratch_Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Globalization.Extensions.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Globalization.Extensions.dll
+    projectPath: scratch_Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.IO.Compression.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.IO.Compression.dll
+    projectPath: scratch_Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: scratch_Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Net.Http.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Net.Http.dll
+    projectPath: scratch_Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Numerics.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Numerics.dll
+    projectPath: scratch_Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Runtime.Serialization.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Runtime.Serialization.dll
+    projectPath: scratch_Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: scratch_Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: scratch_Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Transactions.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Transactions.dll
+    projectPath: scratch_Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Xml.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Xml.dll
+    projectPath: scratch_Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Xml.Linq.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Xml.Linq.dll
+    projectPath: scratch_Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: scratch_Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+    projectPath: scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+    projectPath: scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+    projectPath: scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.Mathematics.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.Mathematics.dll
+    projectPath: scratch_Data\Managed\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.TextMeshPro.dll
+    projectPath: scratch_Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.Timeline.dll
+    projectPath: scratch_Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.AIModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.AIModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ARModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ARModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.dll
+    projectPath: scratch_Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.GridModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.GridModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.InputModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.InputModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.SubsystemsModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.SubsystemsModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UI.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UIModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UIModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.VRModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.VRModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.WindModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.WindModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Managed\UnityEngine.XRModule.dll
+    fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.XRModule.dll
+    projectPath: scratch_Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Resources\unity default resources
+    fullPath: C:\Final-Year-Project\scratch_Data\Resources\unity default resources
+    projectPath: scratch_Data\Resources\unity default resources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\Resources\unity_builtin_extra
+    fullPath: C:\Final-Year-Project\scratch_Data\Resources\unity_builtin_extra
+    projectPath: scratch_Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\sharedassets0.assets
+    fullPath: C:\Final-Year-Project\scratch_Data\sharedassets0.assets
+    projectPath: scratch_Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: scratch_Data\sharedassets0.assets.resS
+    fullPath: C:\Final-Year-Project\scratch_Data\sharedassets0.assets.resS
+    projectPath: scratch_Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Final-Year-Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\1.backup
-    fullPath: C:\Final-Year-Project\Temp\__Backupscenes\1.backup
-    projectPath: Temp\__Backupscenes\1.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Final-Year-Project\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\UnityTempFile-02f9eb244f66d714f9d91b1530e9d46f
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-02f9eb244f66d714f9d91b1530e9d46f
-    projectPath: Temp\UnityTempFile-02f9eb244f66d714f9d91b1530e9d46f
+  - path: test.exe
+    fullPath: C:\Final-Year-Project\test.exe
+    projectPath: test.exe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: UnityCrashHandler32.exe
+    fullPath: C:\Final-Year-Project\UnityCrashHandler32.exe
+    projectPath: UnityCrashHandler32.exe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1d871087476b31a489642725b8bc74f3
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-1d871087476b31a489642725b8bc74f3
-    projectPath: Temp\UnityTempFile-1d871087476b31a489642725b8bc74f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-1e6eebcdb36db27468187e55b0981f33
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-1e6eebcdb36db27468187e55b0981f33
-    projectPath: Temp\UnityTempFile-1e6eebcdb36db27468187e55b0981f33
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-29f9ad05c3566dc4bac8725f0e011d45
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-29f9ad05c3566dc4bac8725f0e011d45
-    projectPath: Temp\UnityTempFile-29f9ad05c3566dc4bac8725f0e011d45
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-33eaa0a51effda348ab7795221b170c6
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-33eaa0a51effda348ab7795221b170c6
-    projectPath: Temp\UnityTempFile-33eaa0a51effda348ab7795221b170c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-365549728ea32544a9e3776e1f0080da
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-365549728ea32544a9e3776e1f0080da
-    projectPath: Temp\UnityTempFile-365549728ea32544a9e3776e1f0080da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-36db3d0ee920d2041ac155a5c81ad4bd
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-36db3d0ee920d2041ac155a5c81ad4bd
-    projectPath: Temp\UnityTempFile-36db3d0ee920d2041ac155a5c81ad4bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4245ae680c214c245b99c78c2809eabb
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4245ae680c214c245b99c78c2809eabb
-    projectPath: Temp\UnityTempFile-4245ae680c214c245b99c78c2809eabb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-46f765c5b597d2a4081a48957ffea66f
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-46f765c5b597d2a4081a48957ffea66f
-    projectPath: Temp\UnityTempFile-46f765c5b597d2a4081a48957ffea66f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-488fc2dff364cc04eb67d7efc585e655
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-488fc2dff364cc04eb67d7efc585e655
-    projectPath: Temp\UnityTempFile-488fc2dff364cc04eb67d7efc585e655
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-489d154cde04f0f4b82d44cebfa9f537
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-489d154cde04f0f4b82d44cebfa9f537
-    projectPath: Temp\UnityTempFile-489d154cde04f0f4b82d44cebfa9f537
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4c08b8d42d406cc48a029e52b40cad62
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4c08b8d42d406cc48a029e52b40cad62
-    projectPath: Temp\UnityTempFile-4c08b8d42d406cc48a029e52b40cad62
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5d3b4eb1325a4d74580329b743b3b91c
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-5d3b4eb1325a4d74580329b743b3b91c
-    projectPath: Temp\UnityTempFile-5d3b4eb1325a4d74580329b743b3b91c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-65813ff40b78d77418590057502dc283
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-65813ff40b78d77418590057502dc283
-    projectPath: Temp\UnityTempFile-65813ff40b78d77418590057502dc283
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-6c9a6c6eca0abdb4e935b92324f7ecb6
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6c9a6c6eca0abdb4e935b92324f7ecb6
-    projectPath: Temp\UnityTempFile-6c9a6c6eca0abdb4e935b92324f7ecb6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-87d06178a033ec548a802f9d454bab89
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-87d06178a033ec548a802f9d454bab89
-    projectPath: Temp\UnityTempFile-87d06178a033ec548a802f9d454bab89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8a9c072834dbfe84d9d854ad52737c6f
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-8a9c072834dbfe84d9d854ad52737c6f
-    projectPath: Temp\UnityTempFile-8a9c072834dbfe84d9d854ad52737c6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-96ccd18d0ab4ef744a015cb955c01a48
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-96ccd18d0ab4ef744a015cb955c01a48
-    projectPath: Temp\UnityTempFile-96ccd18d0ab4ef744a015cb955c01a48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-972755c561379474dad9553267944ca9
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-972755c561379474dad9553267944ca9
-    projectPath: Temp\UnityTempFile-972755c561379474dad9553267944ca9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-99561e0d95d45134cbc846635e29f796
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-99561e0d95d45134cbc846635e29f796
-    projectPath: Temp\UnityTempFile-99561e0d95d45134cbc846635e29f796
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a5ac4899baa2c4843a8cf18c5c30e16d
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a5ac4899baa2c4843a8cf18c5c30e16d
-    projectPath: Temp\UnityTempFile-a5ac4899baa2c4843a8cf18c5c30e16d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b334aa1c991ca294891f62011f411650
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b334aa1c991ca294891f62011f411650
-    projectPath: Temp\UnityTempFile-b334aa1c991ca294891f62011f411650
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b6142efc3e460fd4bbcef3b3fa7b44ec
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b6142efc3e460fd4bbcef3b3fa7b44ec
-    projectPath: Temp\UnityTempFile-b6142efc3e460fd4bbcef3b3fa7b44ec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b6e95312a2ee3bc47b279249862153c9
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b6e95312a2ee3bc47b279249862153c9
-    projectPath: Temp\UnityTempFile-b6e95312a2ee3bc47b279249862153c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c1928780ef763f64787135a86de3f546
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c1928780ef763f64787135a86de3f546
-    projectPath: Temp\UnityTempFile-c1928780ef763f64787135a86de3f546
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d0faa281456b87449871ad4798b56f83
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-d0faa281456b87449871ad4798b56f83
-    projectPath: Temp\UnityTempFile-d0faa281456b87449871ad4798b56f83
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e17f3b58bd63bd34fae25222fe109aef
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e17f3b58bd63bd34fae25222fe109aef
-    projectPath: Temp\UnityTempFile-e17f3b58bd63bd34fae25222fe109aef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e894d65da685e0d4184e01e781d56155
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e894d65da685e0d4184e01e781d56155
-    projectPath: Temp\UnityTempFile-e894d65da685e0d4184e01e781d56155
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ed5d8721008bf714e9618d0e1ccf2505
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ed5d8721008bf714e9618d0e1ccf2505
-    projectPath: Temp\UnityTempFile-ed5d8721008bf714e9618d0e1ccf2505
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-efd99a68278f23d47afc163074df87aa
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-efd99a68278f23d47afc163074df87aa
-    projectPath: Temp\UnityTempFile-efd99a68278f23d47afc163074df87aa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fac882be21e8e5c42bf4c9dc3d1f8c7b
-    fullPath: C:\Final-Year-Project\Temp\UnityTempFile-fac882be21e8e5c42bf4c9dc3d1f8c7b
-    projectPath: Temp\UnityTempFile-fac882be21e8e5c42bf4c9dc3d1f8c7b
+  - path: UnityPlayer.dll
+    fullPath: C:\Final-Year-Project\UnityPlayer.dll
+    projectPath: UnityPlayer.dll
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

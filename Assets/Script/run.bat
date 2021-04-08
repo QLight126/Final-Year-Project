@@ -1,1 +1,1 @@
-g++ C:/Users/LKK126/Final-Year-Project/Assets/Script/CodeBeingExecuted.cpp -o test
+g++ C:/Final-Year-Project/Assets/Script/CodeBeingExecuted.cpp -o test
