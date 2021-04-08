@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CloneItself
+    - CloseProgram
     - ElseBlock
     - ElseIfBlock
     - EndIfBlock
@@ -19,6 +20,7 @@ ScriptsOnlyBuild:
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.RepositoryInfoCache
     Unity.2D.Animation.Editor.dll:
@@ -117,15 +119,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14010}
     - Class: 114
-      Script: {instanceID: 14316}
+      Script: {instanceID: 14314}
     - Class: 114
-      Script: {instanceID: 14382}
+      Script: {instanceID: 14380}
     - Class: 114
-      Script: {instanceID: 14504}
+      Script: {instanceID: 14502}
     - Class: 114
-      Script: {instanceID: 14536}
+      Script: {instanceID: 14534}
     - Class: 114
-      Script: {instanceID: 14556}
+      Script: {instanceID: 14554}
+    - Class: 114
+      Script: {instanceID: 16256}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -591,12 +595,6 @@ ScriptsOnlyBuild:
     className: InitialValue
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Back
-  - hash:
-      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -709,6 +707,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CloseProgram
   platform: 5
   scenePathNames:
   - Assets/Scenes/main.unity

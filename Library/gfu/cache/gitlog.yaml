@@ -13,9 +13,1540 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-04-09T00:56:47.735+08:00
-  initializedAtString: 2021-04-09T00:56:46.942+08:00
+  lastUpdatedAtString: 2021-04-09T01:58:00.753+08:00
+  initializedAtString: 2021-04-09T01:58:00.753+08:00
   log:
+  - commitID: 74f8360e02f5418d7abdf60fb7af889fafe5b4eb
+    mergeA: 
+    mergeB: 
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: 43591730+QLight126@users.noreply.github.com
+    commitName: QLight126
+    summary: Deleted unused script
+    description: 
+    timeString: 2021-04-09T01:47:48.000+08:00
+    commitTimeString: 2021-04-09T01:47:48.000+08:00
+    changes:
+    - path: Assets\Script\Back.cs
+      fullPath: C:\Final-Year-Project\Assets\Script\Back.cs
+      projectPath: Assets\Script\Back.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Script\Back.cs.meta
+      fullPath: C:\Final-Year-Project\Assets\Script\Back.cs.meta
+      projectPath: Assets\Script\Back.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Final-Year-Project\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\56\56120db06c328a82068521d8ce269c6e
+      fullPath: C:\Final-Year-Project\Library\Artifacts\56\56120db06c328a82068521d8ce269c6e
+      projectPath: Library\Artifacts\56\56120db06c328a82068521d8ce269c6e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\7f\7f390f0894b8f854e8bf32b01a3486fa
+      fullPath: C:\Final-Year-Project\Library\Artifacts\7f\7f390f0894b8f854e8bf32b01a3486fa
+      projectPath: Library\Artifacts\7f\7f390f0894b8f854e8bf32b01a3486fa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\94\94f89e36526fcce30770d3a54bf9d449
+      fullPath: C:\Final-Year-Project\Library\Artifacts\94\94f89e36526fcce30770d3a54bf9d449
+      projectPath: Library\Artifacts\94\94f89e36526fcce30770d3a54bf9d449
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\e6\e687a317de1cf5fb877ab4f93af06477
+      fullPath: C:\Final-Year-Project\Library\Artifacts\e6\e687a317de1cf5fb877ab4f93af06477
+      projectPath: Library\Artifacts\e6\e687a317de1cf5fb877ab4f93af06477
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Final-Year-Project\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Final-Year-Project\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Final-Year-Project\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Final-Year-Project\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\e25b4c-mainStage.json
+      fullPath: C:\Final-Year-Project\Library\StateCache\Hierarchy\e25b4c-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\e25b4c-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\UnityLockfile
+      fullPath: C:\Final-Year-Project\Temp\UnityLockfile
+      projectPath: Temp\UnityLockfile
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-00103d12865643746ae2157b1ef90e05
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-00103d12865643746ae2157b1ef90e05
+      projectPath: Temp\UnityTempFile-00103d12865643746ae2157b1ef90e05
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-072a7ed7aa8131d44bb4ed1703d4d9f7
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-072a7ed7aa8131d44bb4ed1703d4d9f7
+      projectPath: Temp\UnityTempFile-072a7ed7aa8131d44bb4ed1703d4d9f7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0a3547ee5d51cce42a3ccd2f17d42715
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-0a3547ee5d51cce42a3ccd2f17d42715
+      projectPath: Temp\UnityTempFile-0a3547ee5d51cce42a3ccd2f17d42715
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0cf0576e412306f489e46bcf40358a66
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-0cf0576e412306f489e46bcf40358a66
+      projectPath: Temp\UnityTempFile-0cf0576e412306f489e46bcf40358a66
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0dd44c32d0484cb4d88eb6beae0d24ab
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-0dd44c32d0484cb4d88eb6beae0d24ab
+      projectPath: Temp\UnityTempFile-0dd44c32d0484cb4d88eb6beae0d24ab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-16417507d9470124f8a995b17b9c351f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-16417507d9470124f8a995b17b9c351f
+      projectPath: Temp\UnityTempFile-16417507d9470124f8a995b17b9c351f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-16dabc641f3d6b84994d04eeea42f5b9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-16dabc641f3d6b84994d04eeea42f5b9
+      projectPath: Temp\UnityTempFile-16dabc641f3d6b84994d04eeea42f5b9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-175313c933a04f94f8a7acf7f4e5e26d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-175313c933a04f94f8a7acf7f4e5e26d
+      projectPath: Temp\UnityTempFile-175313c933a04f94f8a7acf7f4e5e26d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1c87d355e8519eb4da8be0e9d9754ed8
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-1c87d355e8519eb4da8be0e9d9754ed8
+      projectPath: Temp\UnityTempFile-1c87d355e8519eb4da8be0e9d9754ed8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-238cd6708efab944b9a6dfac65e0c1f2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-238cd6708efab944b9a6dfac65e0c1f2
+      projectPath: Temp\UnityTempFile-238cd6708efab944b9a6dfac65e0c1f2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-250ce5bcf4a0afe4f9fbc0c17954ef88
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-250ce5bcf4a0afe4f9fbc0c17954ef88
+      projectPath: Temp\UnityTempFile-250ce5bcf4a0afe4f9fbc0c17954ef88
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2af5ebc0dab7f6e4aa66cb50a3d19e67
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-2af5ebc0dab7f6e4aa66cb50a3d19e67
+      projectPath: Temp\UnityTempFile-2af5ebc0dab7f6e4aa66cb50a3d19e67
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2b80f416615a274408e5ca1847642b5b
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-2b80f416615a274408e5ca1847642b5b
+      projectPath: Temp\UnityTempFile-2b80f416615a274408e5ca1847642b5b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4106744a99d38434c949009b4edf9b35
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4106744a99d38434c949009b4edf9b35
+      projectPath: Temp\UnityTempFile-4106744a99d38434c949009b4edf9b35
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4355445508e7e3442b07ae6426e8e197
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4355445508e7e3442b07ae6426e8e197
+      projectPath: Temp\UnityTempFile-4355445508e7e3442b07ae6426e8e197
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4b35264f73e07a64a87b0808b29a2b34
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4b35264f73e07a64a87b0808b29a2b34
+      projectPath: Temp\UnityTempFile-4b35264f73e07a64a87b0808b29a2b34
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-597e2048fa6510b4eb4ec7d6d5fb5dc3
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-597e2048fa6510b4eb4ec7d6d5fb5dc3
+      projectPath: Temp\UnityTempFile-597e2048fa6510b4eb4ec7d6d5fb5dc3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-59a0620c074bdba4bad78ccef6f7321d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-59a0620c074bdba4bad78ccef6f7321d
+      projectPath: Temp\UnityTempFile-59a0620c074bdba4bad78ccef6f7321d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5a221e4ea9e45054a9567516157b8447
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-5a221e4ea9e45054a9567516157b8447
+      projectPath: Temp\UnityTempFile-5a221e4ea9e45054a9567516157b8447
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5ae8d9801c47afe4180ae760d05f2b9f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-5ae8d9801c47afe4180ae760d05f2b9f
+      projectPath: Temp\UnityTempFile-5ae8d9801c47afe4180ae760d05f2b9f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6131747ec0acea34fa60d4e4d2490906
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6131747ec0acea34fa60d4e4d2490906
+      projectPath: Temp\UnityTempFile-6131747ec0acea34fa60d4e4d2490906
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6457ae146fd3c104abc159c2a41a2c22
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6457ae146fd3c104abc159c2a41a2c22
+      projectPath: Temp\UnityTempFile-6457ae146fd3c104abc159c2a41a2c22
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6709df0749f697c4c9efa7c96081777f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6709df0749f697c4c9efa7c96081777f
+      projectPath: Temp\UnityTempFile-6709df0749f697c4c9efa7c96081777f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-67771ef9db5363a4d8ff45ddc6b9e69f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-67771ef9db5363a4d8ff45ddc6b9e69f
+      projectPath: Temp\UnityTempFile-67771ef9db5363a4d8ff45ddc6b9e69f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-684147edfa35c364bafa9b5e7799fade
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-684147edfa35c364bafa9b5e7799fade
+      projectPath: Temp\UnityTempFile-684147edfa35c364bafa9b5e7799fade
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-696d15c9ea4dc7b4da406b44059b3a93
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-696d15c9ea4dc7b4da406b44059b3a93
+      projectPath: Temp\UnityTempFile-696d15c9ea4dc7b4da406b44059b3a93
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6b4c7be34b8cf9346b39989d5aaa7d08
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6b4c7be34b8cf9346b39989d5aaa7d08
+      projectPath: Temp\UnityTempFile-6b4c7be34b8cf9346b39989d5aaa7d08
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-757df0fbf3b00c44da758d90945d0806
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-757df0fbf3b00c44da758d90945d0806
+      projectPath: Temp\UnityTempFile-757df0fbf3b00c44da758d90945d0806
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-75e25591de6be1e409165e6534cbac0f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-75e25591de6be1e409165e6534cbac0f
+      projectPath: Temp\UnityTempFile-75e25591de6be1e409165e6534cbac0f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7821019cd29c76c46ad911a1e18dec1c
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-7821019cd29c76c46ad911a1e18dec1c
+      projectPath: Temp\UnityTempFile-7821019cd29c76c46ad911a1e18dec1c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-798654f6434c248408958e82726b8dc9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-798654f6434c248408958e82726b8dc9
+      projectPath: Temp\UnityTempFile-798654f6434c248408958e82726b8dc9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-821386c8b7817cb4d9960a6a7bd1e0aa
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-821386c8b7817cb4d9960a6a7bd1e0aa
+      projectPath: Temp\UnityTempFile-821386c8b7817cb4d9960a6a7bd1e0aa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-83f577eabfbc70f4d89a656a1128ad7a
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-83f577eabfbc70f4d89a656a1128ad7a
+      projectPath: Temp\UnityTempFile-83f577eabfbc70f4d89a656a1128ad7a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-86ab7fe8fa1914f41b136361b000f532
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-86ab7fe8fa1914f41b136361b000f532
+      projectPath: Temp\UnityTempFile-86ab7fe8fa1914f41b136361b000f532
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8708d0bfd6e02db4ab23ccbe97a0d95a
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-8708d0bfd6e02db4ab23ccbe97a0d95a
+      projectPath: Temp\UnityTempFile-8708d0bfd6e02db4ab23ccbe97a0d95a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8e378c0e6fbe6074095180e9fdfe90c9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-8e378c0e6fbe6074095180e9fdfe90c9
+      projectPath: Temp\UnityTempFile-8e378c0e6fbe6074095180e9fdfe90c9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-95efcafd04fb4e74b987891484d8b6a6
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-95efcafd04fb4e74b987891484d8b6a6
+      projectPath: Temp\UnityTempFile-95efcafd04fb4e74b987891484d8b6a6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-99a95d6b3be85f343851dc27024ca4d9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-99a95d6b3be85f343851dc27024ca4d9
+      projectPath: Temp\UnityTempFile-99a95d6b3be85f343851dc27024ca4d9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-9c12e7753d034b94e8f6288f882aaad5
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-9c12e7753d034b94e8f6288f882aaad5
+      projectPath: Temp\UnityTempFile-9c12e7753d034b94e8f6288f882aaad5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a2514270058544047b9766f413010239
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a2514270058544047b9766f413010239
+      projectPath: Temp\UnityTempFile-a2514270058544047b9766f413010239
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a2f2e56647876794b8b8656f4efb17f9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a2f2e56647876794b8b8656f4efb17f9
+      projectPath: Temp\UnityTempFile-a2f2e56647876794b8b8656f4efb17f9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a413b09f0eef90d409f847533428c092
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a413b09f0eef90d409f847533428c092
+      projectPath: Temp\UnityTempFile-a413b09f0eef90d409f847533428c092
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a547c92d39578014bb6806d21155fe8b
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a547c92d39578014bb6806d21155fe8b
+      projectPath: Temp\UnityTempFile-a547c92d39578014bb6806d21155fe8b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ac679a6a05221e14bb72be9a7cbc3303
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ac679a6a05221e14bb72be9a7cbc3303
+      projectPath: Temp\UnityTempFile-ac679a6a05221e14bb72be9a7cbc3303
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ad721e270573b8145a1b14d0f6121dce
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ad721e270573b8145a1b14d0f6121dce
+      projectPath: Temp\UnityTempFile-ad721e270573b8145a1b14d0f6121dce
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ade1bded601f2474ca8dfdcaab442052
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ade1bded601f2474ca8dfdcaab442052
+      projectPath: Temp\UnityTempFile-ade1bded601f2474ca8dfdcaab442052
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ae4db75164ce6ee4c9518ca790e742b4
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ae4db75164ce6ee4c9518ca790e742b4
+      projectPath: Temp\UnityTempFile-ae4db75164ce6ee4c9518ca790e742b4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b04929782714d7545abb77b14b484c83
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b04929782714d7545abb77b14b484c83
+      projectPath: Temp\UnityTempFile-b04929782714d7545abb77b14b484c83
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b0bf3376adcaf3849bd6554aa540307f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b0bf3376adcaf3849bd6554aa540307f
+      projectPath: Temp\UnityTempFile-b0bf3376adcaf3849bd6554aa540307f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b647a176863acc843a996080dc3afc3d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b647a176863acc843a996080dc3afc3d
+      projectPath: Temp\UnityTempFile-b647a176863acc843a996080dc3afc3d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-bc407c68425828042b669aa7ab6d1043
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-bc407c68425828042b669aa7ab6d1043
+      projectPath: Temp\UnityTempFile-bc407c68425828042b669aa7ab6d1043
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c0d18d050be18ca4980142c1de9e10b6
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c0d18d050be18ca4980142c1de9e10b6
+      projectPath: Temp\UnityTempFile-c0d18d050be18ca4980142c1de9e10b6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c5400af1b07ffcb40a7a9bafc7d50ed2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c5400af1b07ffcb40a7a9bafc7d50ed2
+      projectPath: Temp\UnityTempFile-c5400af1b07ffcb40a7a9bafc7d50ed2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c8514c8582fccc94588b4d3af337c7e2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c8514c8582fccc94588b4d3af337c7e2
+      projectPath: Temp\UnityTempFile-c8514c8582fccc94588b4d3af337c7e2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c9842e3dc6e0aa945944c84e90033f68
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c9842e3dc6e0aa945944c84e90033f68
+      projectPath: Temp\UnityTempFile-c9842e3dc6e0aa945944c84e90033f68
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cb1e134d19870b04585ceb58d99c347d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cb1e134d19870b04585ceb58d99c347d
+      projectPath: Temp\UnityTempFile-cb1e134d19870b04585ceb58d99c347d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cc3fe2aa49dd56149bcaa4a4f1b52146
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cc3fe2aa49dd56149bcaa4a4f1b52146
+      projectPath: Temp\UnityTempFile-cc3fe2aa49dd56149bcaa4a4f1b52146
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cd075faed06a9c347855adf639604164
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cd075faed06a9c347855adf639604164
+      projectPath: Temp\UnityTempFile-cd075faed06a9c347855adf639604164
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cfe7de37b07f18a40b2526e8321eede4
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cfe7de37b07f18a40b2526e8321eede4
+      projectPath: Temp\UnityTempFile-cfe7de37b07f18a40b2526e8321eede4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d1850092eeb3a6c41963c0e71f14d1c7
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-d1850092eeb3a6c41963c0e71f14d1c7
+      projectPath: Temp\UnityTempFile-d1850092eeb3a6c41963c0e71f14d1c7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d6d3e33807f10d5409b461328bb88f58
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-d6d3e33807f10d5409b461328bb88f58
+      projectPath: Temp\UnityTempFile-d6d3e33807f10d5409b461328bb88f58
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-dccdef512e6e4614e9334730e7ed1f26
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-dccdef512e6e4614e9334730e7ed1f26
+      projectPath: Temp\UnityTempFile-dccdef512e6e4614e9334730e7ed1f26
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-dcd4dbbb950044445b8f9723deabe795
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-dcd4dbbb950044445b8f9723deabe795
+      projectPath: Temp\UnityTempFile-dcd4dbbb950044445b8f9723deabe795
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-deb8108542b8f594e9b87b91eeb118b8
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-deb8108542b8f594e9b87b91eeb118b8
+      projectPath: Temp\UnityTempFile-deb8108542b8f594e9b87b91eeb118b8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e2356929a91467342b72c5542cc37603
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e2356929a91467342b72c5542cc37603
+      projectPath: Temp\UnityTempFile-e2356929a91467342b72c5542cc37603
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e36c3a492732257469a4b7d8a5c763ba
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e36c3a492732257469a4b7d8a5c763ba
+      projectPath: Temp\UnityTempFile-e36c3a492732257469a4b7d8a5c763ba
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e560865eaf8e8ab40b18b2bd76209a8b
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e560865eaf8e8ab40b18b2bd76209a8b
+      projectPath: Temp\UnityTempFile-e560865eaf8e8ab40b18b2bd76209a8b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ea9afe985e4604b41827f49e7cde8541
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ea9afe985e4604b41827f49e7cde8541
+      projectPath: Temp\UnityTempFile-ea9afe985e4604b41827f49e7cde8541
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-edd1d4a337f48164f953618db434b3a2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-edd1d4a337f48164f953618db434b3a2
+      projectPath: Temp\UnityTempFile-edd1d4a337f48164f953618db434b3a2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f44bba70db8464040b77d0e6877cbac7
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f44bba70db8464040b77d0e6877cbac7
+      projectPath: Temp\UnityTempFile-f44bba70db8464040b77d0e6877cbac7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f7f633843fae4fe469cba7a6df57ebd3
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f7f633843fae4fe469cba7a6df57ebd3
+      projectPath: Temp\UnityTempFile-f7f633843fae4fe469cba7a6df57ebd3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f8f078c2a2efc0640b09e8288edad5fb
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f8f078c2a2efc0640b09e8288edad5fb
+      projectPath: Temp\UnityTempFile-f8f078c2a2efc0640b09e8288edad5fb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f906639421473e148818c275b31c1eae
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f906639421473e148818c275b31c1eae
+      projectPath: Temp\UnityTempFile-f906639421473e148818c275b31c1eae
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-faf43ff02ddbbd04ba2ddf5e5e616204
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-faf43ff02ddbbd04ba2ddf5e5e616204
+      projectPath: Temp\UnityTempFile-faf43ff02ddbbd04ba2ddf5e5e616204
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fbcf2c23994b51443a8282bc9a20071e
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-fbcf2c23994b51443a8282bc9a20071e
+      projectPath: Temp\UnityTempFile-fbcf2c23994b51443a8282bc9a20071e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fce2136ade9be4146878e89825553e2e
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-fce2136ade9be4146878e89825553e2e
+      projectPath: Temp\UnityTempFile-fce2136ade9be4146878e89825553e2e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Final-Year-Project\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\tempFile.res
+      fullPath: C:\Final-Year-Project\Temp\tempFile.res
+      projectPath: Temp\tempFile.res
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Temp\tempFile.resG
+      fullPath: C:\Final-Year-Project\Temp\tempFile.resG
+      projectPath: Temp\tempFile.resG
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: fdebd02f7b3514999b83a3e752e637886c0bc681
+    mergeA: 
+    mergeB: 
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: 43591730+QLight126@users.noreply.github.com
+    commitName: QLight126
+    summary: fixed cmd problem
+    description: 
+    timeString: 2021-04-09T01:35:36.000+08:00
+    commitTimeString: 2021-04-09T01:35:36.000+08:00
+    changes:
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe11.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8c3612c5506ddf5e198dd19109be52d4c8d00e0c
+    mergeA: 7565d50e81cae10b4ddd58fd028b869e613e6750
+    mergeB: 90d837d379ac22891a042c0c590ab2ed1778deea
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: 43591730+QLight126@users.noreply.github.com
+    commitName: QLight126
+    summary: Merge branch 'main' of https://github.com/QLight126/Final-Year-Project
+      into main
+    description: 
+    timeString: 2021-04-09T01:34:53.000+08:00
+    commitTimeString: 2021-04-09T01:34:53.000+08:00
+    changes: []
+  - commitID: 7565d50e81cae10b4ddd58fd028b869e613e6750
+    mergeA: 
+    mergeB: 
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: 43591730+QLight126@users.noreply.github.com
+    commitName: QLight126
+    summary: fixed call command prompt problem
+    description: 
+    timeString: 2021-04-09T01:34:42.000+08:00
+    commitTimeString: 2021-04-09T01:34:42.000+08:00
+    changes:
+    - path: Assets\Scenes\main.unity
+      fullPath: C:\Final-Year-Project\Assets\Scenes\main.unity
+      projectPath: Assets\Scenes\main.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Script\CodeBeingExecuted.cpp
+      fullPath: C:\Final-Year-Project\Assets\Script\CodeBeingExecuted.cpp
+      projectPath: Assets\Script\CodeBeingExecuted.cpp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Script\Execute.cs
+      fullPath: C:\Final-Year-Project\Assets\Script\Execute.cs
+      projectPath: Assets\Script\Execute.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Final-Year-Project\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\0b\0bd1103782e376c0da91be54109c0cee
+      fullPath: C:\Final-Year-Project\Library\Artifacts\0b\0bd1103782e376c0da91be54109c0cee
+      projectPath: Library\Artifacts\0b\0bd1103782e376c0da91be54109c0cee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\56\56120db06c328a82068521d8ce269c6e
+      fullPath: C:\Final-Year-Project\Library\Artifacts\56\56120db06c328a82068521d8ce269c6e
+      projectPath: Library\Artifacts\56\56120db06c328a82068521d8ce269c6e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7f\7f390f0894b8f854e8bf32b01a3486fa
+      fullPath: C:\Final-Year-Project\Library\Artifacts\7f\7f390f0894b8f854e8bf32b01a3486fa
+      projectPath: Library\Artifacts\7f\7f390f0894b8f854e8bf32b01a3486fa
+      originalPath: Library\Artifacts\c1\c171149350da1ce7c05ee086179f3c0f
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\94\94f89e36526fcce30770d3a54bf9d449
+      fullPath: C:\Final-Year-Project\Library\Artifacts\94\94f89e36526fcce30770d3a54bf9d449
+      projectPath: Library\Artifacts\94\94f89e36526fcce30770d3a54bf9d449
+      originalPath: Library\Artifacts\bd\bd9b1caf074b175d6ab535a2ec2a600a
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\e6\e687a317de1cf5fb877ab4f93af06477
+      fullPath: C:\Final-Year-Project\Library\Artifacts\e6\e687a317de1cf5fb877ab4f93af06477
+      projectPath: Library\Artifacts\e6\e687a317de1cf5fb877ab4f93af06477
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Final-Year-Project\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Final-Year-Project\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\LastBuild.buildreport
+      fullPath: C:\Final-Year-Project\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\globalgamemanagers
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\level0
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\level0
+      projectPath: Library\PlayerDataCache\Win\Data\level0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Final-Year-Project\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Final-Year-Project\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\e25b4c-mainStage.json
+      fullPath: C:\Final-Year-Project\Library\StateCache\Hierarchy\e25b4c-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\e25b4c-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Final-Year-Project\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\UnityLockfile
+      fullPath: C:\Final-Year-Project\Temp\UnityLockfile
+      projectPath: Temp\UnityLockfile
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-00103d12865643746ae2157b1ef90e05
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-00103d12865643746ae2157b1ef90e05
+      projectPath: Temp\UnityTempFile-00103d12865643746ae2157b1ef90e05
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-072a7ed7aa8131d44bb4ed1703d4d9f7
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-072a7ed7aa8131d44bb4ed1703d4d9f7
+      projectPath: Temp\UnityTempFile-072a7ed7aa8131d44bb4ed1703d4d9f7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0a3547ee5d51cce42a3ccd2f17d42715
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-0a3547ee5d51cce42a3ccd2f17d42715
+      projectPath: Temp\UnityTempFile-0a3547ee5d51cce42a3ccd2f17d42715
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0cf0576e412306f489e46bcf40358a66
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-0cf0576e412306f489e46bcf40358a66
+      projectPath: Temp\UnityTempFile-0cf0576e412306f489e46bcf40358a66
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0dd44c32d0484cb4d88eb6beae0d24ab
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-0dd44c32d0484cb4d88eb6beae0d24ab
+      projectPath: Temp\UnityTempFile-0dd44c32d0484cb4d88eb6beae0d24ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-16417507d9470124f8a995b17b9c351f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-16417507d9470124f8a995b17b9c351f
+      projectPath: Temp\UnityTempFile-16417507d9470124f8a995b17b9c351f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-16dabc641f3d6b84994d04eeea42f5b9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-16dabc641f3d6b84994d04eeea42f5b9
+      projectPath: Temp\UnityTempFile-16dabc641f3d6b84994d04eeea42f5b9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-175313c933a04f94f8a7acf7f4e5e26d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-175313c933a04f94f8a7acf7f4e5e26d
+      projectPath: Temp\UnityTempFile-175313c933a04f94f8a7acf7f4e5e26d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1c87d355e8519eb4da8be0e9d9754ed8
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-1c87d355e8519eb4da8be0e9d9754ed8
+      projectPath: Temp\UnityTempFile-1c87d355e8519eb4da8be0e9d9754ed8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-238cd6708efab944b9a6dfac65e0c1f2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-238cd6708efab944b9a6dfac65e0c1f2
+      projectPath: Temp\UnityTempFile-238cd6708efab944b9a6dfac65e0c1f2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-250ce5bcf4a0afe4f9fbc0c17954ef88
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-250ce5bcf4a0afe4f9fbc0c17954ef88
+      projectPath: Temp\UnityTempFile-250ce5bcf4a0afe4f9fbc0c17954ef88
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2af5ebc0dab7f6e4aa66cb50a3d19e67
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-2af5ebc0dab7f6e4aa66cb50a3d19e67
+      projectPath: Temp\UnityTempFile-2af5ebc0dab7f6e4aa66cb50a3d19e67
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2b80f416615a274408e5ca1847642b5b
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-2b80f416615a274408e5ca1847642b5b
+      projectPath: Temp\UnityTempFile-2b80f416615a274408e5ca1847642b5b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4106744a99d38434c949009b4edf9b35
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4106744a99d38434c949009b4edf9b35
+      projectPath: Temp\UnityTempFile-4106744a99d38434c949009b4edf9b35
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4355445508e7e3442b07ae6426e8e197
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4355445508e7e3442b07ae6426e8e197
+      projectPath: Temp\UnityTempFile-4355445508e7e3442b07ae6426e8e197
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4b35264f73e07a64a87b0808b29a2b34
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-4b35264f73e07a64a87b0808b29a2b34
+      projectPath: Temp\UnityTempFile-4b35264f73e07a64a87b0808b29a2b34
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-597e2048fa6510b4eb4ec7d6d5fb5dc3
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-597e2048fa6510b4eb4ec7d6d5fb5dc3
+      projectPath: Temp\UnityTempFile-597e2048fa6510b4eb4ec7d6d5fb5dc3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-59a0620c074bdba4bad78ccef6f7321d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-59a0620c074bdba4bad78ccef6f7321d
+      projectPath: Temp\UnityTempFile-59a0620c074bdba4bad78ccef6f7321d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5a221e4ea9e45054a9567516157b8447
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-5a221e4ea9e45054a9567516157b8447
+      projectPath: Temp\UnityTempFile-5a221e4ea9e45054a9567516157b8447
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5ae8d9801c47afe4180ae760d05f2b9f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-5ae8d9801c47afe4180ae760d05f2b9f
+      projectPath: Temp\UnityTempFile-5ae8d9801c47afe4180ae760d05f2b9f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6131747ec0acea34fa60d4e4d2490906
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6131747ec0acea34fa60d4e4d2490906
+      projectPath: Temp\UnityTempFile-6131747ec0acea34fa60d4e4d2490906
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6457ae146fd3c104abc159c2a41a2c22
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6457ae146fd3c104abc159c2a41a2c22
+      projectPath: Temp\UnityTempFile-6457ae146fd3c104abc159c2a41a2c22
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6709df0749f697c4c9efa7c96081777f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6709df0749f697c4c9efa7c96081777f
+      projectPath: Temp\UnityTempFile-6709df0749f697c4c9efa7c96081777f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-67771ef9db5363a4d8ff45ddc6b9e69f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-67771ef9db5363a4d8ff45ddc6b9e69f
+      projectPath: Temp\UnityTempFile-67771ef9db5363a4d8ff45ddc6b9e69f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-684147edfa35c364bafa9b5e7799fade
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-684147edfa35c364bafa9b5e7799fade
+      projectPath: Temp\UnityTempFile-684147edfa35c364bafa9b5e7799fade
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-696d15c9ea4dc7b4da406b44059b3a93
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-696d15c9ea4dc7b4da406b44059b3a93
+      projectPath: Temp\UnityTempFile-696d15c9ea4dc7b4da406b44059b3a93
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6b4c7be34b8cf9346b39989d5aaa7d08
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-6b4c7be34b8cf9346b39989d5aaa7d08
+      projectPath: Temp\UnityTempFile-6b4c7be34b8cf9346b39989d5aaa7d08
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-757df0fbf3b00c44da758d90945d0806
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-757df0fbf3b00c44da758d90945d0806
+      projectPath: Temp\UnityTempFile-757df0fbf3b00c44da758d90945d0806
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-75e25591de6be1e409165e6534cbac0f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-75e25591de6be1e409165e6534cbac0f
+      projectPath: Temp\UnityTempFile-75e25591de6be1e409165e6534cbac0f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7821019cd29c76c46ad911a1e18dec1c
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-7821019cd29c76c46ad911a1e18dec1c
+      projectPath: Temp\UnityTempFile-7821019cd29c76c46ad911a1e18dec1c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-798654f6434c248408958e82726b8dc9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-798654f6434c248408958e82726b8dc9
+      projectPath: Temp\UnityTempFile-798654f6434c248408958e82726b8dc9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-821386c8b7817cb4d9960a6a7bd1e0aa
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-821386c8b7817cb4d9960a6a7bd1e0aa
+      projectPath: Temp\UnityTempFile-821386c8b7817cb4d9960a6a7bd1e0aa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-83f577eabfbc70f4d89a656a1128ad7a
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-83f577eabfbc70f4d89a656a1128ad7a
+      projectPath: Temp\UnityTempFile-83f577eabfbc70f4d89a656a1128ad7a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-86ab7fe8fa1914f41b136361b000f532
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-86ab7fe8fa1914f41b136361b000f532
+      projectPath: Temp\UnityTempFile-86ab7fe8fa1914f41b136361b000f532
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8708d0bfd6e02db4ab23ccbe97a0d95a
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-8708d0bfd6e02db4ab23ccbe97a0d95a
+      projectPath: Temp\UnityTempFile-8708d0bfd6e02db4ab23ccbe97a0d95a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8e378c0e6fbe6074095180e9fdfe90c9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-8e378c0e6fbe6074095180e9fdfe90c9
+      projectPath: Temp\UnityTempFile-8e378c0e6fbe6074095180e9fdfe90c9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-95efcafd04fb4e74b987891484d8b6a6
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-95efcafd04fb4e74b987891484d8b6a6
+      projectPath: Temp\UnityTempFile-95efcafd04fb4e74b987891484d8b6a6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-99a95d6b3be85f343851dc27024ca4d9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-99a95d6b3be85f343851dc27024ca4d9
+      projectPath: Temp\UnityTempFile-99a95d6b3be85f343851dc27024ca4d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-9c12e7753d034b94e8f6288f882aaad5
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-9c12e7753d034b94e8f6288f882aaad5
+      projectPath: Temp\UnityTempFile-9c12e7753d034b94e8f6288f882aaad5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a2514270058544047b9766f413010239
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a2514270058544047b9766f413010239
+      projectPath: Temp\UnityTempFile-a2514270058544047b9766f413010239
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a2f2e56647876794b8b8656f4efb17f9
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a2f2e56647876794b8b8656f4efb17f9
+      projectPath: Temp\UnityTempFile-a2f2e56647876794b8b8656f4efb17f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a413b09f0eef90d409f847533428c092
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a413b09f0eef90d409f847533428c092
+      projectPath: Temp\UnityTempFile-a413b09f0eef90d409f847533428c092
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a547c92d39578014bb6806d21155fe8b
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-a547c92d39578014bb6806d21155fe8b
+      projectPath: Temp\UnityTempFile-a547c92d39578014bb6806d21155fe8b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ac679a6a05221e14bb72be9a7cbc3303
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ac679a6a05221e14bb72be9a7cbc3303
+      projectPath: Temp\UnityTempFile-ac679a6a05221e14bb72be9a7cbc3303
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ad721e270573b8145a1b14d0f6121dce
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ad721e270573b8145a1b14d0f6121dce
+      projectPath: Temp\UnityTempFile-ad721e270573b8145a1b14d0f6121dce
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ade1bded601f2474ca8dfdcaab442052
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ade1bded601f2474ca8dfdcaab442052
+      projectPath: Temp\UnityTempFile-ade1bded601f2474ca8dfdcaab442052
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ae4db75164ce6ee4c9518ca790e742b4
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ae4db75164ce6ee4c9518ca790e742b4
+      projectPath: Temp\UnityTempFile-ae4db75164ce6ee4c9518ca790e742b4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b04929782714d7545abb77b14b484c83
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b04929782714d7545abb77b14b484c83
+      projectPath: Temp\UnityTempFile-b04929782714d7545abb77b14b484c83
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b0bf3376adcaf3849bd6554aa540307f
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b0bf3376adcaf3849bd6554aa540307f
+      projectPath: Temp\UnityTempFile-b0bf3376adcaf3849bd6554aa540307f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b647a176863acc843a996080dc3afc3d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-b647a176863acc843a996080dc3afc3d
+      projectPath: Temp\UnityTempFile-b647a176863acc843a996080dc3afc3d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-bc407c68425828042b669aa7ab6d1043
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-bc407c68425828042b669aa7ab6d1043
+      projectPath: Temp\UnityTempFile-bc407c68425828042b669aa7ab6d1043
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c0d18d050be18ca4980142c1de9e10b6
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c0d18d050be18ca4980142c1de9e10b6
+      projectPath: Temp\UnityTempFile-c0d18d050be18ca4980142c1de9e10b6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c5400af1b07ffcb40a7a9bafc7d50ed2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c5400af1b07ffcb40a7a9bafc7d50ed2
+      projectPath: Temp\UnityTempFile-c5400af1b07ffcb40a7a9bafc7d50ed2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c8514c8582fccc94588b4d3af337c7e2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c8514c8582fccc94588b4d3af337c7e2
+      projectPath: Temp\UnityTempFile-c8514c8582fccc94588b4d3af337c7e2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c9842e3dc6e0aa945944c84e90033f68
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-c9842e3dc6e0aa945944c84e90033f68
+      projectPath: Temp\UnityTempFile-c9842e3dc6e0aa945944c84e90033f68
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cb1e134d19870b04585ceb58d99c347d
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cb1e134d19870b04585ceb58d99c347d
+      projectPath: Temp\UnityTempFile-cb1e134d19870b04585ceb58d99c347d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cc3fe2aa49dd56149bcaa4a4f1b52146
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cc3fe2aa49dd56149bcaa4a4f1b52146
+      projectPath: Temp\UnityTempFile-cc3fe2aa49dd56149bcaa4a4f1b52146
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cd075faed06a9c347855adf639604164
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cd075faed06a9c347855adf639604164
+      projectPath: Temp\UnityTempFile-cd075faed06a9c347855adf639604164
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cfe7de37b07f18a40b2526e8321eede4
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-cfe7de37b07f18a40b2526e8321eede4
+      projectPath: Temp\UnityTempFile-cfe7de37b07f18a40b2526e8321eede4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d1850092eeb3a6c41963c0e71f14d1c7
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-d1850092eeb3a6c41963c0e71f14d1c7
+      projectPath: Temp\UnityTempFile-d1850092eeb3a6c41963c0e71f14d1c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d6d3e33807f10d5409b461328bb88f58
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-d6d3e33807f10d5409b461328bb88f58
+      projectPath: Temp\UnityTempFile-d6d3e33807f10d5409b461328bb88f58
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-dccdef512e6e4614e9334730e7ed1f26
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-dccdef512e6e4614e9334730e7ed1f26
+      projectPath: Temp\UnityTempFile-dccdef512e6e4614e9334730e7ed1f26
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-dcd4dbbb950044445b8f9723deabe795
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-dcd4dbbb950044445b8f9723deabe795
+      projectPath: Temp\UnityTempFile-dcd4dbbb950044445b8f9723deabe795
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-deb8108542b8f594e9b87b91eeb118b8
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-deb8108542b8f594e9b87b91eeb118b8
+      projectPath: Temp\UnityTempFile-deb8108542b8f594e9b87b91eeb118b8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e2356929a91467342b72c5542cc37603
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e2356929a91467342b72c5542cc37603
+      projectPath: Temp\UnityTempFile-e2356929a91467342b72c5542cc37603
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e36c3a492732257469a4b7d8a5c763ba
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e36c3a492732257469a4b7d8a5c763ba
+      projectPath: Temp\UnityTempFile-e36c3a492732257469a4b7d8a5c763ba
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e560865eaf8e8ab40b18b2bd76209a8b
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-e560865eaf8e8ab40b18b2bd76209a8b
+      projectPath: Temp\UnityTempFile-e560865eaf8e8ab40b18b2bd76209a8b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ea9afe985e4604b41827f49e7cde8541
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-ea9afe985e4604b41827f49e7cde8541
+      projectPath: Temp\UnityTempFile-ea9afe985e4604b41827f49e7cde8541
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-edd1d4a337f48164f953618db434b3a2
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-edd1d4a337f48164f953618db434b3a2
+      projectPath: Temp\UnityTempFile-edd1d4a337f48164f953618db434b3a2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f44bba70db8464040b77d0e6877cbac7
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f44bba70db8464040b77d0e6877cbac7
+      projectPath: Temp\UnityTempFile-f44bba70db8464040b77d0e6877cbac7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f7f633843fae4fe469cba7a6df57ebd3
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f7f633843fae4fe469cba7a6df57ebd3
+      projectPath: Temp\UnityTempFile-f7f633843fae4fe469cba7a6df57ebd3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f8f078c2a2efc0640b09e8288edad5fb
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f8f078c2a2efc0640b09e8288edad5fb
+      projectPath: Temp\UnityTempFile-f8f078c2a2efc0640b09e8288edad5fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f906639421473e148818c275b31c1eae
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-f906639421473e148818c275b31c1eae
+      projectPath: Temp\UnityTempFile-f906639421473e148818c275b31c1eae
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-faf43ff02ddbbd04ba2ddf5e5e616204
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-faf43ff02ddbbd04ba2ddf5e5e616204
+      projectPath: Temp\UnityTempFile-faf43ff02ddbbd04ba2ddf5e5e616204
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fbcf2c23994b51443a8282bc9a20071e
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-fbcf2c23994b51443a8282bc9a20071e
+      projectPath: Temp\UnityTempFile-fbcf2c23994b51443a8282bc9a20071e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fce2136ade9be4146878e89825553e2e
+      fullPath: C:\Final-Year-Project\Temp\UnityTempFile-fce2136ade9be4146878e89825553e2e
+      projectPath: Temp\UnityTempFile-fce2136ade9be4146878e89825553e2e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Final-Year-Project\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\tempFile.res
+      fullPath: C:\Final-Year-Project\Temp\tempFile.res
+      projectPath: Temp\tempFile.res
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\tempFile.resG
+      fullPath: C:\Final-Year-Project\Temp\tempFile.resG
+      projectPath: Temp\tempFile.resG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Assembly-CSharp.dll
+      projectPath: scratch_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+      projectPath: scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.Mathematics.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.Mathematics.dll
+      projectPath: scratch_Data\Managed\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: scratch_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.Timeline.dll
+      projectPath: scratch_Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UI.dll
+      projectPath: scratch_Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\globalgamemanagers
+      fullPath: C:\Final-Year-Project\scratch_Data\globalgamemanagers
+      projectPath: scratch_Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\level0
+      fullPath: C:\Final-Year-Project\scratch_Data\level0
+      projectPath: scratch_Data\level0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: test.exe
+      fullPath: C:\Final-Year-Project\test.exe
+      projectPath: test.exe
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 90d837d379ac22891a042c0c590ab2ed1778deea
+    mergeA: 
+    mergeB: 
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: 
+    timeString: 2021-04-09T01:04:54.000+08:00
+    commitTimeString: 2021-04-09T01:04:54.000+08:00
+    changes:
+    - path: README.md
+      fullPath: C:\Final-Year-Project\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 84b7f6b9d8ca950192558cfcb9df3397ae07d2f8
     mergeA: 
     mergeB: 
