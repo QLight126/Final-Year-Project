@@ -13,9 +13,370 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-04-09T01:58:00.753+08:00
-  initializedAtString: 2021-04-09T01:58:00.753+08:00
+  lastUpdatedAtString: 2021-04-09T15:01:16.886+08:00
+  initializedAtString: 2021-04-09T15:01:15.962+08:00
   log:
+  - commitID: 9e825a477218640e50ca1d7e5564c4dd5cc9ba88
+    mergeA: 935db08902cde7a554f7873d122447c508734fbb
+    mergeB: cbaf92db2286bc16be629d67cd9f48e4fbd8f8b7
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: 43591730+QLight126@users.noreply.github.com
+    commitName: QLight126
+    summary: Merge branch 'main' of https://github.com/QLight126/Final-Year-Project
+      into main
+    description: 
+    timeString: 2021-04-09T02:03:25.000+08:00
+    commitTimeString: 2021-04-09T02:03:25.000+08:00
+    changes: []
+  - commitID: 935db08902cde7a554f7873d122447c508734fbb
+    mergeA: 
+    mergeB: 
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: 43591730+QLight126@users.noreply.github.com
+    commitName: QLight126
+    summary: add quit button
+    description: 
+    timeString: 2021-04-09T02:02:17.000+08:00
+    commitTimeString: 2021-04-09T02:02:17.000+08:00
+    changes:
+    - path: Assets\Scenes\main.unity
+      fullPath: C:\Final-Year-Project\Assets\Scenes\main.unity
+      projectPath: Assets\Scenes\main.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Script\CloseProgram.cs
+      fullPath: C:\Final-Year-Project\Assets\Script\CloseProgram.cs
+      projectPath: Assets\Script\CloseProgram.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Script\CloseProgram.cs.meta
+      fullPath: C:\Final-Year-Project\Assets\Script\CloseProgram.cs.meta
+      projectPath: Assets\Script\CloseProgram.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Final-Year-Project\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\ef\ef8bd9578771d7ffd327c04684cf18f3
+      fullPath: C:\Final-Year-Project\Library\Artifacts\ef\ef8bd9578771d7ffd327c04684cf18f3
+      projectPath: Library\Artifacts\ef\ef8bd9578771d7ffd327c04684cf18f3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Final-Year-Project\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastBuild.buildreport
+      fullPath: C:\Final-Year-Project\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+      projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\globalgamemanagers
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\level0
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\level0
+      projectPath: Library\PlayerDataCache\Win\Data\level0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+      projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+      fullPath: C:\Final-Year-Project\Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+      projectPath: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Final-Year-Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Final-Year-Project\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\bfeec5-mainStage.json
+      fullPath: C:\Final-Year-Project\Library\StateCache\SceneView\bfeec5-mainStage.json
+      projectPath: Library\StateCache\SceneView\bfeec5-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Final-Year-Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe11.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: C:\Final-Year-Project\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Assembly-CSharp.dll
+      projectPath: scratch_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+      projectPath: scratch_Data\Managed\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: scratch_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: scratch_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.Mathematics.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.Mathematics.dll
+      projectPath: scratch_Data\Managed\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: scratch_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\Unity.Timeline.dll
+      projectPath: scratch_Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Final-Year-Project\scratch_Data\Managed\UnityEngine.UI.dll
+      projectPath: scratch_Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\globalgamemanagers
+      fullPath: C:\Final-Year-Project\scratch_Data\globalgamemanagers
+      projectPath: scratch_Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\globalgamemanagers.assets
+      fullPath: C:\Final-Year-Project\scratch_Data\globalgamemanagers.assets
+      projectPath: scratch_Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\level0
+      fullPath: C:\Final-Year-Project\scratch_Data\level0
+      projectPath: scratch_Data\level0
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: scratch_Data\sharedassets0.assets
+      fullPath: C:\Final-Year-Project\scratch_Data\sharedassets0.assets
+      projectPath: scratch_Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: cbaf92db2286bc16be629d67cd9f48e4fbd8f8b7
+    mergeA: 
+    mergeB: 
+    authorName: QLight126
+    authorEmail: 43591730+QLight126@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: 
+    timeString: 2021-04-09T01:55:12.000+08:00
+    commitTimeString: 2021-04-09T01:55:12.000+08:00
+    changes:
+    - path: README.md
+      fullPath: C:\Final-Year-Project\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 74f8360e02f5418d7abdf60fb7af889fafe5b4eb
     mergeA: 
     mergeB: 

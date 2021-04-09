@@ -113,9 +113,6 @@ public class ReadCode : MonoBehaviour
                                 break;
                         }
                         break;
-                    case "write":
-                        initial.code += currentBlock.GetComponent<Write>().output;
-                        break;
                 }
             }
             
